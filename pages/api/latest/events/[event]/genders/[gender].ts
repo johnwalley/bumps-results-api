@@ -44,8 +44,8 @@ export default function handler(
       set: data.set,
       gender: data.gender,
       crews: data.crews
-        .filter((crew) => crew.values[crew.values.length - 1].pos !== -1)
-        .map((crew) => ({
+        .filter((crew: any) => crew.values[crew.values.length - 1].pos !== -1)
+        .map((crew: any) => ({
           name: crew.name,
           values: crew.values.slice(-5).map((v, i) => ({ day: i, pos: v.pos })),
           valuesSplit: crew.valuesSplit.slice(-1),
