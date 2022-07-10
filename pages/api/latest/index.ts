@@ -26,19 +26,21 @@ export default function handler(
       (d) => d.small.toLowerCase() === (event as string).toLowerCase()
     )[0];
 
-  const indexes = data.divisions.map((d) => d.year >= +start && d.year <= +end);
+  const indexes = data.divisions.map(
+    (d: any) => d.year >= +start && d.year <= +end
+  );
 
   console.log(indexes);
 
   const dataRange = {
     set: data.set,
     gender: data.gender,
-    crews: data.crews.map((crew) => ({
+    crews: data.crews.map((crew: any) => ({
       name: crew.name,
       //values: crew.values,
-      valuesSplit: crew.valuesSplit.filter((d, i) => indexes[i]),
+      valuesSplit: crew.valuesSplit.filter((d: any, i: number) => indexes[i]),
     })),
-    divisions: data.divisions.filter((d, i) => indexes[i]),
+    divisions: data.divisions.filter((d: any, i: number) => indexes[i]),
   };
 
   res.status(200).json({ ...dataRange, startYear: data.divisions[0].year });
