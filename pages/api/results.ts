@@ -1,7 +1,29 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
 import events from "./events.json";
+import { transformData, joinEvents } from "bumps-results-tools";
 import Joi, { ValidationError } from "joi";
+
+const GENDER = {
+  MEN: "Men",
+  WOMEN: "Women",
+};
+
+const SET = {
+  EIGHTS: "Summer Eights",
+  TORPIDS: "Torpids",
+  LENTS: "Lent Bumps",
+  MAYS: "May Bumps",
+  TOWN: "Town Bumps",
+};
+
+const set = {
+  eights: SET.EIGHTS,
+  torpids: SET.TORPIDS,
+  lents: SET.LENTS,
+  mays: SET.MAYS,
+  town: SET.TOWN,
+};
 
 const schema = Joi.object({
   event: Joi.any()
@@ -40,9 +62,16 @@ export default function handler(
       )
       .filter((d) => d.small.toLowerCase() === (event as string).toLowerCase())
       .filter((d) => d.year >= +start)
-      .filter((d) => d.year <= end);
+      .filter((d) => d.year <= end)
+      .map(transformData);
 
-    res.status(200).json(data);
+    const joinedEvents = joinEvents(data, event, gender);
+
+    joinedEvents.small = event;
+    joinedEvents.gender = gender;
+    joinedEvents.set = set[event as keyof typeof set];
+
+    res.status(200).json(joinedEvents);
   } catch (error) {
     let message = "There was an error";
 

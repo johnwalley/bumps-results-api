@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bumps-results-tools": "^0.4.1",
     "joi": "^17.6.0",
     "next": "12.1.0",
     "react": "17.0.2",
