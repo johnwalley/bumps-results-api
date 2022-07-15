@@ -115533,7 +115533,7 @@
     "small": "Town",
     "gender": "Women",
     "result": "",
-    "year": 2022,
+    "year": 2019,
     "days": 4,
     "divisions": [
       [
@@ -115679,10 +115679,10 @@
       ]
     ],
     "completed": [
-      [false, false, false],
-      [false, false, false],
-      [false, false, false],
-      [false, false, false]
+      [true, true, true],
+      [true, true, true],
+      [true, true, true],
+      [true, true, true]
     ]
   },
   {
@@ -116012,14 +116012,14 @@
         "City 4",
         "City 5",
         "Chesterton 2",
-        "XPress 2",
-        "Radegund 1",
+        "X-Press 2",
+        "St Radegund 1",
         "City 6",
         "City 7",
         "Cantabs 6",
         "City 8",
         "Cantabs 7",
-        "Xpress 3",
+        "X-Press 3",
         "99 5",
         "Cantabs 8",
         "Champs 2",
@@ -116032,10 +116032,10 @@
         "City 9",
         "Cantabs 9",
         "City 10",
-        "XPress 4",
+        "X-Press 4",
         "Cantabs 10",
         "Cantabs 11",
-        "XPress 5",
+        "X-Press 5",
         "City 11",
         "City 12",
         "Champs 4",
@@ -116096,14 +116096,14 @@
         "City 4",
         "City 5",
         "Chesterton 2",
-        "XPress 2",
-        "Radegund 1",
+        "X-Press 2",
+        "St Radegund 1",
         "City 6",
         "City 7",
         "Cantabs 6",
         "City 8",
         "Cantabs 7",
-        "Xpress 3",
+        "X-Press 3",
         "99 5",
         "Cantabs 8",
         "Champs 2",
@@ -116116,10 +116116,10 @@
         "City 9",
         "Cantabs 9",
         "City 10",
-        "XPress 4",
+        "X-Press 4",
         "Cantabs 10",
         "Cantabs 11",
-        "XPress 5",
+        "X-Press 5",
         "City 11",
         "City 12",
         "Champs 4",
@@ -116145,7 +116145,7 @@
     "small": "Town",
     "gender": "Women",
     "result": "",
-    "year": 2021,
+    "year": 2022,
     "days": 4,
     "divisions": [
       [
@@ -116273,10 +116273,10 @@
       ]
     ],
     "completed": [
-      [true, true, true],
-      [true, true, true],
-      [true, true, true],
-      [true, true, true]
+      [false, false, false],
+      [false, false, false],
+      [false, false, false],
+      [false, false, false]
     ]
   }
 ]
