@@ -115540,82 +115540,74 @@
         "Cantabs 1",
         "City 1",
         "Cantabs 2",
-        "Cantabs 3",
         "X-Press 1",
         "99 1",
-        "Cantabs 4",
+        "Cantabs 3",
         "Chesterton 1",
-        "St Neots 1",
-        "Champs 1",
         "City 2",
-        "99 2",
+        "Cantabs 4",
         "Rob Roy 1",
-        "Isle of Ely 1",
+        "99 2",
         "99 3",
-        "Champs 2",
-        "Rob Roy 2"
-      ],
-      [
-        "Champs 3",
+        "Champs 1",
         "City 3",
-        "City 4",
-        "Cantabs 5",
-        "City 5",
-        "99 4",
-        "XPress 2",
-        "Chesterton 2",
-        "City 6",
-        "99 5",
-        "Cantabs 6",
-        "Cantabs 7",
-        "City 7",
-        "St Neots 2",
-        "XPress 3",
-        "Champs 4",
-        "Chesterton 3"
+        "Isle of Ely 1",
+        "Champs 2",
+        "City 4"
       ],
       [
+        "City 5",
+        "City 6",
+        "X-Press 2",
+        "Cantabs 5",
+        "Champs 3",
+        "Cantabs 6",
+        "City 7",
+        "99 4",
+        "Champs 4",
+        "Chesterton 2",
+        "99 5",
+        "Cantabs 7",
         "Cantabs 8",
-        "99 6",
+        "X-Press 3",
+        "Chesterton 3",
         "City 8",
+        "Champs 5"
+      ],
+      [
         "Cantabs 9",
-        "Isle of Ely 2",
+        "Champs 6",
         "Cantabs 10",
+        "Isle of Ely 2",
+        "99 6",
         "99 7",
-        "Cantabs 11",
-        "XPress 4",
-        "City 9",
-        "City 10",
-        "Cantabs 12",
-        "St Neots 3",
-        "City 11",
-        "XPress 5",
-        "Cantabs 13",
-        "City 12",
-        "Cantabs 14"
+        "Chesterton 4",
+        "99 8",
+        "Champs 7",
+        "99 9"
       ]
     ],
-    "results": "rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rruruur rururruuro3ur rrruurrururrrr\nrrrrrrurr ururruuurrru uuuurrururrr\nruuuur urrrruuuurur rurrrrurrrrrrrrr\nurruuu uuruuuuurrr rrurrrrurrrrrrrr",
     "move": [
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0],
+        [0, -3, -1, 1, 3, 0, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1],
+        [0, -1, 1, -1, 1, 0, -1, 1, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, -1],
+        [-1, 2, 0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1],
+        [1, 0, -1, 1, 0, 0, 0, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, 1],
+        [0, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0, 0, 0, -1],
+        [1, -1, 1, -1, 1, -1, 1, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, 1, 0],
+        [0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1, -1],
+        [-1, 2, -1, 1, -1, 1, 0, 0, -1, 1]
       ]
     ],
     "finish": [
@@ -115628,54 +115620,46 @@
         "99 1",
         "Cantabs 4",
         "Chesterton 1",
-        "St Neots 1",
         "Champs 1",
         "City 2",
-        "99 2",
         "Rob Roy 1",
+        "99 2",
         "Isle of Ely 1",
         "99 3",
+        "Champs 3",
         "Champs 2",
-        "Rob Roy 2"
+        "City 3"
       ],
       [
-        "Champs 3",
-        "City 3",
         "City 4",
         "Cantabs 5",
         "City 5",
         "99 4",
-        "XPress 2",
+        "X-Press 2",
         "Chesterton 2",
         "City 6",
         "99 5",
         "Cantabs 6",
         "Cantabs 7",
         "City 7",
-        "St Neots 2",
-        "XPress 3",
+        "X-Press 3",
         "Champs 4",
-        "Chesterton 3"
+        "Chesterton 3",
+        "Champs 5",
+        "Cantabs 8",
+        "99 6"
       ],
       [
-        "Cantabs 8",
-        "99 6",
         "City 8",
         "Cantabs 9",
         "Isle of Ely 2",
         "Cantabs 10",
+        "99 8",
+        "Champs 6",
         "99 7",
-        "Cantabs 11",
-        "XPress 4",
-        "City 9",
-        "City 10",
-        "Cantabs 12",
-        "St Neots 3",
-        "City 11",
-        "XPress 5",
-        "Cantabs 13",
-        "City 12",
-        "Cantabs 14"
+        "Champs 7",
+        "99 9",
+        "Chesterton 4"
       ]
     ],
     "completed": [
@@ -116193,32 +116177,41 @@
         "Cantabs 9",
         "Isle of Ely 2",
         "Cantabs 10",
+        "99 7",
         "Cantabs 11",
+        "X-Press 4",
         "City 9",
-        "Cantabs 12"
+        "City 10",
+        "Cantabs 12",
+        "St Neots 3",
+        "City 11",
+        "X-Press 5",
+        "Cantabs 13",
+        "City 12",
+        "Cantabs 14"
       ]
     ],
-    "results": "rrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -116267,9 +116260,18 @@
         "Cantabs 9",
         "Isle of Ely 2",
         "Cantabs 10",
+        "99 7",
         "Cantabs 11",
+        "X-Press 4",
         "City 9",
-        "Cantabs 12"
+        "City 10",
+        "Cantabs 12",
+        "St Neots 3",
+        "City 11",
+        "X-Press 5",
+        "Cantabs 13",
+        "City 12",
+        "Cantabs 14"
       ]
     ],
     "completed": [
