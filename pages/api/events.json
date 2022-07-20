@@ -116033,11 +116033,11 @@
         "Camb Veterans 1"
       ]
     ],
-    "results": "rrrrruurruurru urururruuurr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrrruurruurru urururruuurr urrururrrurrrr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1, 0, -1],
+        [0, 0, 0, 0, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, 0, -1],
+        [1, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1, 0, -1],
         [-1, 2, 0, 0, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0, 0, 0, 0]
       ],
       [
@@ -116062,22 +116062,22 @@
         "Cantabs 1",
         "Rob Roy 1",
         "Cantabs 2",
-        "99 2",
         "City 1",
+        "99 2",
         "X-Press 1",
         "Cantabs 3",
         "Chesterton 1",
-        "99 3",
         "City 2",
+        "99 3",
         "City 3",
-        "Champs 1",
         "Cantabs 4",
+        "Champs 1",
         "Cantabs 5",
         "99 4",
-        "St Neots 1"
+        "City 4"
       ],
       [
-        "City 4",
+        "St Neots 1",
         "City 5",
         "X-Press 2",
         "Chesterton 2",
