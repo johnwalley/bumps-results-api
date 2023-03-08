@@ -60034,10 +60034,10 @@
         "Trinity Hall 3"
       ]
     ],
-    "results": "rurrr uurururuuru rurro3uo3ururr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rurrr uurururuuru rurro3uo3ururr rrruuurrururr\nrrurr rrruruo3uurur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0],
         [0, 0, -1, 1, 0, -3, -1, 1, 3, -3, -1, 1, 3, 0, 0, -1, 1],
         [-1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1, 0, -1, 1, -1],
         [1, 0, 0, -1, 1, 0]
@@ -60045,8 +60045,8 @@
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0]
+        [0, -1, 1, 0, -1, 1, -3, -1, 1, 3, -1, 1, 0, -1, 1, 0, 0],
+        [0, 0, -1, 1, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -60065,19 +60065,19 @@
       [
         "LMBC",
         "Caius",
-        "Pembroke",
         "Downing",
+        "Pembroke",
         "Jesus",
-        "1st and 3rd",
         "Magdalene",
+        "1st and 3rd",
         "Trinity Hall",
         "King's",
-        "Robinson",
         "Clare",
-        "St Catharine's",
+        "Robinson",
         "Queens'",
-        "Peterhouse",
+        "St Catharine's",
         "Emmanuel",
+        "Peterhouse",
         "LMBC 2",
         "Christ's"
       ],
@@ -60102,28 +60102,28 @@
       ],
       [
         "Downing 2",
-        "Magdalene 2",
         "Queens' 2",
+        "Magdalene 2",
         "Trinity Hall 2",
-        "Christ's 2",
         "Fitzwilliam 2",
-        "St Catharine's 2",
-        "LMBC 3",
-        "Clare Hall 2",
+        "Christ's 2",
         "Peterhouse 2",
-        "Churchill 2",
+        "Clare Hall 2",
+        "LMBC 3",
+        "St Catharine's 2",
         "Lucy Cavendish",
+        "Churchill 2",
         "Selwyn 2",
-        "Girton 2",
         "Emmanuel 3",
+        "Girton 2",
         "Caius 3",
         "Wolfson 2"
       ],
       [
         "Sidney Sussex 2",
         "Corpus Christi 2",
-        "Magdalene 3",
         "Queens' 3",
+        "Magdalene 3",
         "Jesus 3",
         "Trinity Hall 3"
       ]
@@ -60157,6 +60157,7 @@
         "Christ's",
         "1st and 3rd",
         "Queens'",
+        "St Catharine's",
         "Fitzwilliam",
         "Sidney Sussex",
         "Darwin"
@@ -60214,28 +60215,28 @@
         "Girton 2"
       ]
     ],
-    "results": "rrrruruur rruurrurrruur urururuuuur rrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrr",
+    "results": "rrrruruur rruurrurrruur urururuuuur rrruruururrur\nrrruurrru ruuuuururru rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, 0, 0, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0],
         [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1, 0, -1],
         [1, -1, 1, -1, 1, 0, 0, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0],
         [0, -1, 1, -1, 1, 0, -1, 1, 0, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [-1, 1, 0, 0, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1],
+        [-1, 1, 0, 0, 0, -1, 1, -1, 1, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-      ],
-      [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
@@ -60244,19 +60245,20 @@
     "finish": [
       [
         "Newnham",
-        "Downing",
         "Jesus",
+        "Downing",
         "Emmanuel",
         "Caius",
-        "Pembroke",
         "LMBC",
+        "Pembroke",
         "Trinity Hall",
-        "Clare",
         "Churchill",
-        "Christ's",
+        "Clare",
         "1st and 3rd",
+        "Christ's",
         "Queens'",
         "Fitzwilliam",
+        "St Catharine's",
         "Sidney Sussex",
         "Darwin"
       ],
@@ -60280,34 +60282,34 @@
         "Downing 2"
       ],
       [
-        "Pembroke 2",
         "Wolfson",
+        "Pembroke 2",
         "Caius 2",
         "Clare 2",
-        "Christ's 2",
         "Emmanuel 3",
+        "Christ's 2",
         "St Edmund's",
-        "St Catharine's 2",
         "Trinity Hall 2",
-        "Newnham 3",
+        "St Catharine's 2",
         "Queens' 3",
-        "Sidney Sussex 2",
+        "Newnham 3",
         "1st and 3rd 2",
-        "Clare Hall",
+        "Sidney Sussex 2",
         "Caius 3",
-        "Magdalene 2",
-        "Churchill 2"
+        "Clare Hall",
+        "Churchill 2",
+        "Magdalene 2"
       ],
       [
-        "Fitzwilliam 2",
         "Lucy Cavendish 2",
+        "Fitzwilliam 2",
         "Peterhouse 2",
         "Clare 3",
         "King's 2",
-        "Churchill 3",
         "Hughes Hall 2",
-        "Jesus 3",
+        "Churchill 3",
         "Wolfson 2",
+        "Jesus 3",
         "Emmanuel 4",
         "Newnham 4",
         "Girton 2"
