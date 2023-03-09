@@ -60034,7 +60034,7 @@
         "Trinity Hall 3"
       ]
     ],
-    "results": "rurrr uurururuuru rurro3uo3ururr rrruuurrururr\nrrurr rrruruo3uurur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rurrr uurururuuru rurro3uo3ururr rrruuurrururr\nrrurr rrruruo3uurur urrurrururrur rruuuuururrr\nrruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0],
@@ -60043,16 +60043,16 @@
         [1, 0, 0, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, -1, 1, 0, -1, 1, -3, -1, 1, 3, -1, 1, 0, -1, 1, 0, 0],
+        [0, 0, 0, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0],
+        [0, -1, 1, 0, 0, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, 0, -1],
+        [1, -1, 1, 0, -1, 1, -3, -1, 1, 3, -1, 1, 0, -1, 1, 0, 0],
         [0, 0, -1, 1, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0]
+        [-1, 1, -1, 1, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -60066,42 +60066,42 @@
         "LMBC",
         "Caius",
         "Downing",
-        "Pembroke",
         "Jesus",
+        "Pembroke",
         "Magdalene",
-        "1st and 3rd",
         "Trinity Hall",
-        "King's",
+        "1st and 3rd",
         "Clare",
-        "Robinson",
+        "King's",
         "Queens'",
-        "St Catharine's",
+        "Robinson",
         "Emmanuel",
-        "Peterhouse",
+        "St Catharine's",
         "LMBC 2",
+        "Peterhouse",
         "Christ's"
       ],
       [
         "Fitzwilliam",
-        "Selwyn",
         "Caius 2",
+        "Selwyn",
         "Churchill",
         "Girton",
-        "Hughes Hall",
         "Corpus Christi",
+        "Hughes Hall",
         "Homerton",
-        "Sidney Sussex",
         "Wolfson",
+        "Sidney Sussex",
         "Pembroke 2",
         "Darwin",
-        "1st and 3rd 2",
         "Emmanuel 2",
+        "1st and 3rd 2",
         "Jesus 2",
         "Clare 2",
-        "St Edmund's"
+        "Downing 2"
       ],
       [
-        "Downing 2",
+        "St Edmund's",
         "Queens' 2",
         "Magdalene 2",
         "Trinity Hall 2",
@@ -60120,10 +60120,10 @@
         "Wolfson 2"
       ],
       [
-        "Sidney Sussex 2",
         "Corpus Christi 2",
-        "Queens' 3",
+        "Sidney Sussex 2",
         "Magdalene 3",
+        "Queens' 3",
         "Jesus 3",
         "Trinity Hall 3"
       ]
@@ -60215,7 +60215,7 @@
         "Girton 2"
       ]
     ],
-    "results": "rrrruruur rruurrurrruur urururuuuur rrruruururrur\nrrruurrru ruuuuururru rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrruruur rruurrurrruur urururuuuur rrruruururrur\nrrruurrru ruuuuururru uruuruuuuu uuurururruu\nrruuurrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, -1, 1, 0, 0, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0],
@@ -60224,16 +60224,16 @@
         [0, -1, 1, -1, 1, 0, -1, 1, 0, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [-1, 1, 0, 0, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1],
+        [-1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1, 0, -1, 1, -1, 1, -1],
+        [-1, 2, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1],
+        [-1, 2, 0, 0, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1],
         [-1, 1, 0, 0, 0, -1, 1, -1, 1, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -60244,45 +60244,45 @@
     ],
     "finish": [
       [
-        "Newnham",
         "Jesus",
-        "Downing",
+        "Newnham",
         "Emmanuel",
+        "Downing",
         "Caius",
         "LMBC",
-        "Pembroke",
         "Trinity Hall",
+        "Pembroke",
         "Churchill",
-        "Clare",
         "1st and 3rd",
+        "Clare",
         "Christ's",
-        "Queens'",
         "Fitzwilliam",
-        "St Catharine's",
+        "Queens'",
         "Sidney Sussex",
-        "Darwin"
+        "St Catharine's",
+        "Peterhouse"
       ],
       [
+        "Darwin",
         "Homerton",
-        "Peterhouse",
-        "Murray Edwards",
         "King's",
-        "Girton",
+        "Murray Edwards",
         "Selwyn",
-        "Lucy Cavendish",
+        "Girton",
         "Magdalene",
-        "Robinson",
+        "Lucy Cavendish",
         "Corpus Christi",
+        "Robinson",
         "Newnham 2",
-        "Emmanuel 2",
         "Jesus 2",
-        "Queens' 2",
+        "Emmanuel 2",
         "Hughes Hall",
+        "Queens' 2",
         "LMBC 2",
-        "Downing 2"
+        "Wolfson"
       ],
       [
-        "Wolfson",
+        "Downing 2",
         "Pembroke 2",
         "Caius 2",
         "Clare 2",
@@ -60305,12 +60305,12 @@
         "Fitzwilliam 2",
         "Peterhouse 2",
         "Clare 3",
-        "King's 2",
         "Hughes Hall 2",
-        "Churchill 3",
+        "King's 2",
         "Wolfson 2",
-        "Jesus 3",
+        "Churchill 3",
         "Emmanuel 4",
+        "Jesus 3",
         "Newnham 4",
         "Girton 2"
       ]
