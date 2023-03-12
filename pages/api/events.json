@@ -60034,7 +60034,7 @@
         "Trinity Hall 3"
       ]
     ],
-    "results": "rurrr uurururuuru rurro3uo3ururr rrruuurrururr\nrrurr rrruruo3uurur urrurrururrur rruuuuururrr\nrruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rurrr uurururuuru rurro3uo3ururr rrruuurrururr\nrrurr rrruruo3uurur urrurrururrur rruuuuururrr\nrruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrr rrrrrrrrrrrrrrrrrr ruuuuurrruu uruuuuruurr",
     "move": [
       [
         [0, 0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0],
@@ -60055,8 +60055,8 @@
         [-1, 1, -1, 1, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1],
+        [-1, 2, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0]
       ]
@@ -60065,40 +60065,40 @@
       [
         "LMBC",
         "Caius",
-        "Downing",
         "Jesus",
-        "Pembroke",
+        "Downing",
         "Magdalene",
+        "Pembroke",
         "Trinity Hall",
-        "1st and 3rd",
         "Clare",
-        "King's",
+        "1st and 3rd",
         "Queens'",
-        "Robinson",
+        "King's",
         "Emmanuel",
-        "St Catharine's",
+        "Robinson",
         "LMBC 2",
+        "St Catharine's",
         "Peterhouse",
-        "Christ's"
+        "Caius 2"
       ],
       [
+        "Christ's",
         "Fitzwilliam",
-        "Caius 2",
-        "Selwyn",
         "Churchill",
+        "Selwyn",
         "Girton",
         "Corpus Christi",
         "Hughes Hall",
-        "Homerton",
         "Wolfson",
-        "Sidney Sussex",
+        "Homerton",
         "Pembroke 2",
-        "Darwin",
+        "Sidney Sussex",
         "Emmanuel 2",
-        "1st and 3rd 2",
+        "Darwin",
         "Jesus 2",
-        "Clare 2",
-        "Downing 2"
+        "1st and 3rd 2",
+        "Downing 2",
+        "Clare 2"
       ],
       [
         "St Edmund's",
@@ -60215,7 +60215,7 @@
         "Girton 2"
       ]
     ],
-    "results": "rrrruruur rruurrurrruur urururuuuur rrruruururrur\nrrruurrru ruuuuururru uruuruuuuu uuurururruu\nrruuurrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrruruur rruurrurrruur urururuuuur rrruruururrur\nrrruurrru ruuuuururru uruuruuuuu uuurururruu\nrruuurrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rruuruuuuur ruuururrruur",
     "move": [
       [
         [0, -1, 1, 0, 0, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0],
@@ -60236,8 +60236,8 @@
         [0, 0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, -1, 1, -1, 1],
+        [0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
@@ -60245,40 +60245,40 @@
     "finish": [
       [
         "Jesus",
-        "Newnham",
         "Emmanuel",
-        "Downing",
+        "Newnham",
         "Caius",
+        "Downing",
         "LMBC",
         "Trinity Hall",
         "Pembroke",
-        "Churchill",
         "1st and 3rd",
+        "Churchill",
         "Clare",
-        "Christ's",
         "Fitzwilliam",
-        "Queens'",
+        "Christ's",
         "Sidney Sussex",
-        "St Catharine's",
-        "Peterhouse"
+        "Queens'",
+        "Peterhouse",
+        "St Catharine's"
       ],
       [
         "Darwin",
-        "Homerton",
         "King's",
-        "Murray Edwards",
+        "Homerton",
         "Selwyn",
-        "Girton",
+        "Murray Edwards",
         "Magdalene",
-        "Lucy Cavendish",
+        "Girton",
         "Corpus Christi",
-        "Robinson",
+        "Lucy Cavendish",
         "Newnham 2",
+        "Robinson",
         "Jesus 2",
-        "Emmanuel 2",
         "Hughes Hall",
-        "Queens' 2",
+        "Emmanuel 2",
         "LMBC 2",
+        "Queens' 2",
         "Wolfson"
       ],
       [
