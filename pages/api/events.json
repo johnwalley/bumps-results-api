@@ -35968,7 +35968,7 @@
         "St Peter's 3"
       ]
     ],
-    "results": "ruo3uuurr rurrrururr rruruurur rrrre1e1e-2rrrur uuuro3urr rrurrrruru ururuurrr\nrrurrrrurrr uuruurur urrrrrruru ruurrre1e1e-2rr ruururrur rurrrrurru rrururrrrrr\nrrruruuru ruruuuru ruurrrrurr uurrrurru uururrurr urrrruuur rururrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
+    "results": "ruo3uuurr rurrrururr rruruurur rrrre1e1e-2rrrur uuuro3urr rrurrrruru ururuurrr\nrrurrrrurrr uuruurur urrrrrruru ruurrre1e1e-2rr ruururrur rurrrrurru rrururrrrrr\nrrruruuru ruruuuru ruurrrrurr uurrrurru uururrurr urrrruuur rururrrrrrr\nrrruuurrrr rrrrrrrrrrrrr ururrrrrur rurrruruu rurururru rrrrrrruurr rrrurrrrrrrr",
     "move": [
       [
         [0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1],
@@ -35998,13 +35998,13 @@
         [-1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0],
+        [0, 0, -1, 1, -1, 1, 0, 0, 0, 0, 0, 0],
+        [-1, 1, 0, 0, -1, 1, 0, -1, 1, 0, -1, 1],
+        [-1, 1, -1, 1, 0, -1, 1, 0, 0, 0, -1, 1],
+        [0, -1, 1, 0, 0, 0, 0, 0, -1, 1, 0, -1],
+        [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -36017,18 +36017,18 @@
         "Balliol",
         "S.E.H.",
         "Magdalen",
-        "Wadham",
         "University",
+        "Wadham",
         "L.M.H.",
         "St Catherine's"
       ],
       [
         "Jesus",
         "New College",
-        "Trinity",
         "Hertford",
-        "Merton",
+        "Trinity",
         "Lincoln",
+        "Merton",
         "Queen's",
         "St Hugh's",
         "Exeter",
@@ -36037,49 +36037,49 @@
         "Brasenose"
       ],
       [
-        "Mansfield",
         "St John's",
+        "Mansfield",
         "St Peter's",
         "Christ Church 2",
-        "Corpus Christi",
         "Pembroke 2",
+        "Corpus Christi",
         "Linacre",
-        "Somerville",
         "Green Templeton",
+        "Somerville",
         "University 2",
-        "Keble 2",
-        "New College 2"
+        "New College 2",
+        "Keble 2"
       ],
       [
-        "St Anne's",
         "St Antony's",
-        "S.E.H. 2",
+        "St Anne's",
         "Balliol 2",
+        "S.E.H. 2",
         "Wolfson 2",
-        "Wadham 2",
         "St Hilda's",
+        "Wadham 2",
         "St Catherine's 2",
         "Magdalen 2",
         "Regent's Park",
-        "Jesus 2",
-        "Brasenose 2"
+        "Brasenose 2",
+        "Jesus 2"
       ],
       [
         "Lincoln 2",
-        "Merton 2",
         "Hertford 2",
+        "Merton 2",
         "Queen's 2",
         "St Peter's 2",
         "Exeter 2",
         "Wolfson 3",
         "New College 3",
-        "Oriel 3",
         "Keble 3",
+        "Oriel 3",
         "Worcester 2",
-        "L.M.H. 2"
+        "Linacre 2"
       ],
       [
-        "Linacre 2",
+        "L.M.H. 2",
         "Osler House",
         "University 3",
         "Oriel 5",
@@ -36097,12 +36097,12 @@
         "Exeter 3",
         "St Antony's 2",
         "S.E.H. 3",
-        "Linacre 3",
         "St John's 2",
-        "Pembroke 3",
+        "Linacre 3",
         "Pembroke 4",
-        "St Hugh's 4",
+        "Pembroke 3",
         "Queen's 3",
+        "St Hugh's 4",
         "Corpus Christi 2",
         "Green Templeton 3",
         "St Peter's 3"
@@ -36112,7 +36112,7 @@
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
-      [false, false, false, false, false, false, false]
+      [true, true, true, true, true, true, true]
     ]
   },
   {
@@ -36223,7 +36223,7 @@
         "Lincoln 5"
       ]
     ],
-    "results": "rruurrruu rrruruuru rurruuuu ruurrruur uuurrrrur ruururrur uurrrrruu\nrrrrururru rurruuurr uuuurrur uuruuuu ruururrrrr urrurre1e1e-2u rurrruurrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
+    "results": "rruurrruu rrruruuru rurruuuu ruurrruur uuurrrrur ruururrur uurrrrruu\nrrrrururru rurruuurr uuuurrur uuruuuu ruururrrrr urrurre1e1e-2u rurrruurrr\nrre1e1e-2rruurr uuuuurrr rrruuuuu urruuuru rruurrruu ro3uuurur urrrrruurr\nrrrrrrrrrrur rrruuuuu rrrre2e-1e1e-2e2e-1e-1rr rurruurur rurrurrrur rrrruuruu rurrruuur",
     "move": [
       [
         [-1, 1, -1, 1, 0, 0, 0, 0, 0, -1, 1, -1],
@@ -36244,121 +36244,121 @@
         [-1, 1, 0, 0, -1, 1, 0, -1, 1, 0, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, -1, 1, -1, 1, 0, 0, 0, 0, 0, -1],
+        [1, -1, 1, 0, -1, 1, -1, 1, -3, -1, 1, 3],
+        [-1, 1, -1, 1, 0, 0, 0, -1, 1, -1, 1, 0],
+        [-1, 1, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1],
+        [-1, 2, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0],
+        [0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1],
+        [1, 0, -1, 1, -1, 1, 0, 0, -2, 1, 1, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, -1, 1, -1, 1, -1, 1, 0, 0, 0, -1, 1],
+        [-1, 1, -1, 1, 0, -1, 1, -1, 1, 0, 0, 0],
+        [0, -1, 1, 0, 0, 0, -1, 1, 0, 0, -1, 1],
+        [0, -1, 1, 0, -1, 1, -1, 1, 0, 0, -1, 1],
+        [0, 0, -1, -1, 2, -2, 1, -1, 2, 0, 0, 0],
+        [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0],
+        [0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
     ],
     "finish": [
       [
         "Christ Church",
-        "University",
-        "Wadham",
         "S.E.H.",
-        "Wolfson",
+        "University",
         "Oriel",
+        "Wadham",
         "Pembroke",
+        "Wolfson",
         "Keble",
         "Magdalen",
         "Jesus",
-        "St Anne's",
-        "New College"
-      ],
-      [
         "Balliol",
-        "Hertford",
-        "St John's",
-        "Green Templeton",
-        "St Catherine's",
-        "Lincoln",
-        "Linacre",
-        "Trinity",
-        "Somerville",
-        "L.M.H.",
-        "Mansfield",
-        "Exeter"
+        "St Anne's"
       ],
       [
-        "Wolfson 2",
+        "St John's",
+        "New College",
+        "Green Templeton",
+        "Hertford",
+        "Lincoln",
+        "Trinity",
+        "St Catherine's",
+        "Exeter",
+        "Linacre",
+        "Mansfield",
+        "L.M.H.",
+        "Somerville"
+      ],
+      [
         "St Peter's",
-        "Merton",
         "Brasenose",
+        "Wolfson 2",
+        "Merton",
         "Corpus Christi",
         "Worcester",
+        "Queen's",
         "St Hugh's",
         "St Antony's",
-        "Queen's",
-        "University 2",
         "Christ Church 2",
-        "Osler House"
+        "Osler House",
+        "University 2"
       ],
       [
-        "Lincoln 2",
         "St Hilda's",
         "Magdalen 2",
-        "Pembroke 2",
+        "Lincoln 2",
         "Linacre 2",
-        "Wadham 2",
         "Green Templeton 2",
-        "St John's 2",
+        "Pembroke 2",
         "Oriel 2",
+        "Wadham 2",
+        "St John's 2",
         "Brasenose 2",
-        "Wolfson 3",
-        "St Hugh's 2"
+        "Worcester 2",
+        "Wolfson 3"
       ],
       [
+        "St Hugh's 2",
         "Regent's Park",
-        "Worcester 2",
-        "New College 2",
-        "Hertford 2",
-        "Balliol 2",
         "Lincoln 3",
-        "Somerville 2",
+        "Hertford 2",
+        "New College 2",
         "Jesus 2",
-        "Trinity 2",
         "Keble 2",
+        "Balliol 2",
+        "Somerville 2",
+        "Trinity 2",
         "S.E.H. 2",
         "Mansfield 2"
       ],
       [
-        "St Catherine's 2",
         "St Antony's 2",
-        "University 3",
-        "Christ Church 3",
+        "St Catherine's 2",
         "St Peter's 2",
-        "Corpus Christi 2",
+        "University 3",
         "Exeter 2",
-        "Oriel 3",
+        "Christ Church 3",
         "Wolfson 4",
-        "Merton 2",
+        "Corpus Christi 2",
         "Queen's 2",
-        "Osler House 2"
+        "Oriel 3",
+        "Merton 2",
+        "Linacre 3"
       ],
       [
-        "Linacre 3",
+        "Osler House 2",
+        "St Peter's 3",
         "Magdalen 3",
         "L.M.H. 2",
-        "St Peter's 3",
-        "Brasenose/St Peter's",
         "Wadham 3",
+        "Brasenose/St Peter's",
         "Oriel 4",
         "Worcester 3",
-        "Queen's 3",
         "Exeter 3",
         "St Anne's/St Hilda's",
+        "Queen's 3",
         "Lincoln 4",
         "Lincoln 5"
       ]
@@ -36367,7 +36367,7 @@
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
-      [false, false, false, false, false, false, false]
+      [true, true, true, true, true, true, true]
     ]
   },
   {
