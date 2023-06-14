@@ -77993,11 +77993,11 @@
         "Pembroke 4"
       ]
     ],
-    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, -1, 1, 0, 0, 0, -1, 1, -1, 1, 0, 0, 0, 0, -1, 1, -1],
+        [0, 0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, -1],
+        [1, -1, 1, 0, 0, 0, -1, 1, -1, 1, 0, 0, 0, 0, -1, 1, -1],
         [1, 0, -1, 1, 0, -1, 1, -1, 1, -3, -1, 1, 3, -1, 1, -1, 1],
         [0, 0, -1, 1, 0, 0, -3, -1, 1, 3, -1, 1, 0, -1, 1, 0, -1],
         [-1, 2, -1, 1, -1, 1, 0, 0, 0]
@@ -78030,22 +78030,22 @@
         "LMBC",
         "Magdalene",
         "Pembroke",
-        "Peterhouse",
         "Emmanuel",
-        "Downing",
+        "Peterhouse",
         "King's",
+        "Downing",
         "Clare",
-        "Queens'",
         "Jesus",
+        "Queens'",
         "LMBC 2",
         "1st and 3rd",
-        "Hughes Hall",
         "Robinson",
+        "Hughes Hall",
         "Selwyn",
-        "Christ's"
+        "St Catharine's"
       ],
       [
-        "St Catharine's",
+        "Christ's",
         "Caius 2",
         "Trinity Hall",
         "Fitzwilliam",
@@ -78114,7 +78114,7 @@
       ]
     ],
     "completed": [
-      [false, true, true, true, true],
+      [true, true, true, true, true],
       [false, false, false, false, false],
       [false, false, false, false, false],
       [false, false, false, false, false]
