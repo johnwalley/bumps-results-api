@@ -77993,11 +77993,11 @@
         "Pembroke 4"
       ]
     ],
-    "results": "rrruuu ururuo3urrurr ruuo3uuururr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrruuu ururuo3urrurr ruuo3uuururr ruuo3uuururr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, -1, 1, 0, -1, 1, -1, 1, -3, -1, 1, 3, -1, 1, -1, 1],
         [0, 0, -1, 1, 0, -1, 1, -1, 1, -3, -1, 1, 3, -1, 1, -1, 1],
         [0, 0, -1, 1, 0, 0, -3, -1, 1, 3, -1, 1, 0, -1, 1, 0, -1],
         [-1, 2, -1, 1, -1, 1, 0, 0, 0]
@@ -78047,21 +78047,21 @@
       [
         "St Catharine's",
         "Trinity Hall",
-        "Caius 2",
         "Fitzwilliam",
+        "Caius 2",
         "Wolfson",
-        "Girton",
         "Churchill",
-        "Corpus Christi",
+        "Girton",
         "St Edmund's",
-        "Sidney Sussex",
-        "Homerton",
-        "Emmanuel 2",
+        "Corpus Christi",
         "Pembroke 2",
-        "Clare 2",
+        "Emmanuel 2",
+        "Homerton",
+        "Sidney Sussex",
         "Darwin",
-        "Downing 2",
-        "1st and 3rd 2"
+        "Clare 2",
+        "1st and 3rd 2",
+        "Downing 2"
       ],
       [
         "Jesus 2",
@@ -78216,11 +78216,11 @@
         "Churchill 3"
       ]
     ],
-    "results": "rrrurur rururruuurur uuuuurrruur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0, 0, 0],
         [0, -1, 1, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1],
         [1, -1, 1, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1],
         [0, -1, 1, 0, -1, 1, 0, 0, 0]
@@ -78269,18 +78269,18 @@
       ],
       [
         "Homerton",
-        "Peterhouse",
         "King's",
+        "Peterhouse",
         "Newnham 2",
         "Lucy Cavendish",
-        "Darwin",
         "Sidney Sussex",
-        "Emmanuel 2",
+        "Darwin",
         "Jesus 2",
+        "Emmanuel 2",
         "Selwyn",
         "Murray Edwards",
-        "Caius 2",
         "Wolfson",
+        "Caius 2",
         "Corpus Christi",
         "Robinson",
         "Pembroke 2",
@@ -78337,7 +78337,7 @@
       ]
     ],
     "completed": [
-      [false, false, true, true, true],
+      [false, true, true, true, true],
       [false, false, false, false, false],
       [false, false, false, false, false],
       [false, false, false, false, false]
