@@ -78115,9 +78115,9 @@
     ],
     "completed": [
       [true, true, true, true, true],
-      [true, true, true, true, true],
-      [true, true, true, true, true],
-      [true, true, true, true, true]
+      [false, true, true, true, true],
+      [false, false, false, false, false],
+      [false, false, false, false, false]
     ]
   },
   {
@@ -78216,7 +78216,7 @@
         "Churchill 3"
       ]
     ],
-    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rruuuurrruru\nuuruu urruruuuruu ruuuuuruurr uuurrurrurru rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rruuuurrruru\nuuruu urruruuuruu ruuuuuruurr uuuuuuurru rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [-1, 1, 0, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0],
@@ -78227,7 +78227,7 @@
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [-1, 1, 0, 0, -1, 1, 0, 0, -1, 1, 0, 0, -1, 1, -1, 1, -1],
+        [-1, 1, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1],
         [1, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1],
         [-1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1],
         [-1, 2, -1, 1, 0, -1, 1, -1, 1]
@@ -78274,12 +78274,12 @@
         "Newnham 2",
         "Sidney Sussex",
         "Lucy Cavendish",
-        "Darwin",
         "Jesus 2",
+        "Darwin",
         "Selwyn",
         "Emmanuel 2",
-        "Murray Edwards",
         "Wolfson",
+        "Murray Edwards",
         "Corpus Christi",
         "Caius 2",
         "Pembroke 2",
