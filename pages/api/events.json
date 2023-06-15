@@ -77993,7 +77993,7 @@
         "Pembroke 4"
       ]
     ],
-    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, -1],
@@ -78007,7 +78007,7 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [-1, 1, 0, -1, 1, 0, -1, 1, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -78102,20 +78102,20 @@
         "Jesus 4"
       ],
       [
-        "Christ's 3",
         "Fitzwilliam 3",
+        "Christ's 3",
         "LMBC 4",
-        "Clare 4",
         "Caius 4",
+        "Clare 4",
         "Magdalene 4",
-        "Clare Hall 2",
         "King's 3",
+        "Clare Hall 2",
         "Pembroke 4"
       ]
     ],
     "completed": [
       [true, true, true, true, true],
-      [false, false, false, false, false],
+      [false, false, false, false, true],
       [false, false, false, false, false],
       [false, false, false, false, false]
     ]
@@ -78216,7 +78216,7 @@
         "Churchill 3"
       ]
     ],
-    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rruuuurrruru\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rruuuurrruru\nuuruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [-1, 1, 0, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0],
@@ -78230,7 +78230,7 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [-1, 1, -1, 1, 0, -1, 1, -1, 1]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -78325,20 +78325,20 @@
         "Corpus Christi 2"
       ],
       [
-        "Jesus 4",
         "Hughes Hall 2",
-        "Trinity Hall 3",
+        "Jesus 4",
         "Girton 2",
+        "Trinity Hall 3",
         "Hughes Hall 3",
-        "Peterhouse 3",
         "Wolfson 2",
-        "Newnham 4",
-        "Churchill 3"
+        "Peterhouse 3",
+        "Churchill 3",
+        "Newnham 4"
       ]
     ],
     "completed": [
       [true, true, true, true, true],
-      [false, false, false, false, false],
+      [false, false, false, true, true],
       [false, false, false, false, false],
       [false, false, false, false, false]
     ]
@@ -117735,7 +117735,7 @@
     "gender": "Men",
     "result": "",
     "year": 2022,
-    "days": 4,
+    "days": 3,
     "divisions": [
       [
         "99 1",
@@ -117797,7 +117797,7 @@
         "Camb Veterans 1"
       ]
     ],
-    "results": "rrrrruurruurru urururruuurr urrururrrurrrr\nruruuuuuuru rurruurrrrrrru ruuururrrurrr\nuruuuuuurur uurururrruur uurrrrrurrrurr\nrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrrruurruurru urururruuurr urrururrrurrrr\nruruuuuuuru rurruurrrrrrru ruuururrrurrr\nuruuuuuurur uurururrruur uurrrrrurrrurr",
     "move": [
       [
         [0, 0, 0, 0, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, 0, -1],
@@ -117813,11 +117813,6 @@
         [0, 0, -1, 1, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, -1, 1, -1],
         [1, -1, 1, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, -1, 1, -1],
         [1, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1]
-      ],
-      [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -117884,8 +117879,7 @@
     "completed": [
       [true, true, true],
       [true, true, true],
-      [true, true, true],
-      [false, false, false]
+      [true, true, true]
     ]
   },
   {
@@ -117894,7 +117888,7 @@
     "gender": "Women",
     "result": "",
     "year": 2022,
-    "days": 4,
+    "days": 3,
     "divisions": [
       [
         "Cantabs 1",
@@ -117955,7 +117949,7 @@
         "Cantabs 14"
       ]
     ],
-    "results": "uruuruuuurr urrrrrrruuruu uurrruururrrr\nrrururruuuru rururruurrrur rurrruuruurrr\nrururruuurur ururruurrrrrrr uuruururrrrrr\nrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "uruuruuuurr urrrrrrruuruu uurrruururrrr\nrrururruuuru rururruurrrur rurrruuruurrr\nrururruuurur ururruurrrrrrr uuruururrrrrr",
     "move": [
       [
         [0, 0, 0, 0, -1, 1, 0, -1, 1, -1, 1, 0, 0, 0, -1, 1, -1],
@@ -117971,11 +117965,6 @@
         [0, 0, 0, 0, 0, 0, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, -1],
         [1, 0, 0, 0, 0, 0, 0, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1],
         [1, -1, 1, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1, 0]
-      ],
-      [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -118041,8 +118030,7 @@
     "completed": [
       [true, true, true],
       [true, true, true],
-      [true, true, true],
-      [false, false, false]
+      [true, true, true]
     ]
   }
 ]
