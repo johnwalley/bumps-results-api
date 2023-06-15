@@ -77993,7 +77993,7 @@
         "Pembroke 4"
       ]
     ],
-    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rruururruuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, -1],
@@ -78006,7 +78006,7 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, -1, 1, -1, 1, 0],
         [-1, 1, 0, -1, 1, 0, -1, 1, 0]
       ],
       [
@@ -78084,21 +78084,21 @@
       ],
       [
         "Queens' 3",
-        "1st and 3rd 3",
         "King's 2",
-        "Pembroke 3",
+        "1st and 3rd 3",
         "Corpus Christi 2",
-        "Girton 2",
+        "Pembroke 3",
         "Lucy Cavendish",
+        "Girton 2",
         "Wolfson 2",
         "Sidney Sussex 2",
-        "Clare 3",
         "Magdalene 3",
+        "Clare 3",
         "Churchill 3",
-        "Darwin 2",
         "Homerton 2",
-        "St Catharine's 3",
+        "Darwin 2",
         "Emmanuel 4",
+        "St Catharine's 3",
         "Jesus 4"
       ],
       [
@@ -78115,7 +78115,7 @@
     ],
     "completed": [
       [true, true, true, true, true],
-      [false, false, false, false, true],
+      [false, false, false, true, true],
       [false, false, false, false, false],
       [false, false, false, false, false]
     ]
