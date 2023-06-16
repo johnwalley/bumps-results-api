@@ -78216,7 +78216,7 @@
         "Churchill 3"
       ]
     ],
-    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rruuuurrruru\nuuruu urruruuuruu ruuuuuruurr uuuuuuurru ruuuuuruurr\nruruur ruuuruuruur rrrruurruruur rrrurruuuuur rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurur rururruuurur uuuuurrruur rrrrrurruurrur rruuuurrruru\nuuruu urruruuuruu ruuuuuruurr uuuuuuurru ruuuuuruurr\nruruur ruuuruuruur rrrruurruruur rrrurruuuuur urruuuuruur\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [-1, 1, 0, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0],
@@ -78233,8 +78233,8 @@
         [-1, 2, -1, 1, 0, -1, 1, -1, 1]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0],
+        [0, -1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0, -1],
+        [1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0],
         [0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0, 0],
         [0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1],
         [0, -1, 1, -1, 1, 0, -1, 1, 0]
@@ -78250,25 +78250,25 @@
     "finish": [
       [
         "Caius",
-        "Newnham",
         "Jesus",
-        "Emmanuel",
+        "Newnham",
         "LMBC",
+        "Emmanuel",
         "Pembroke",
-        "Downing",
         "Churchill",
-        "Fitzwilliam",
+        "Downing",
         "Trinity Hall",
-        "Christ's",
+        "Fitzwilliam",
         "St Catharine's",
-        "1st and 3rd",
+        "Christ's",
         "Queens'",
+        "1st and 3rd",
         "Clare",
         "Magdalene",
-        "Girton"
+        "King's"
       ],
       [
-        "King's",
+        "Girton",
         "Peterhouse",
         "Homerton",
         "Sidney Sussex",
@@ -78339,7 +78339,7 @@
     "completed": [
       [true, true, true, true, true],
       [true, true, true, true, true],
-      [false, true, true, true, true],
+      [true, true, true, true, true],
       [false, false, false, false, false]
     ]
   },
