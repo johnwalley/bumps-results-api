@@ -77993,7 +77993,7 @@
         "Pembroke 4"
       ]
     ],
-    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rruururruuur urrurruuurur ruuro3ururrru ro3urrruruurrr\nruurur rurruruuuuu uruuuuurrru uuo3urrrrurur rururrrururrrr\nuuruu uuuurrruuur ruruuuuurru o5uururrrrrurr rrrrrrrrrrrrrrrrrr",
+    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rruururruuur urrurruuurur ruuro3ururrru ro3urrruruurrr\nruurur rurruruuuuu uruuuuurrru uuo3urrrrurur rururrrururrrr\nuuruu uuuurrruuur ruruuuuurru o5uururrrrrurr uruurrrururrr",
     "move": [
       [
         [0, 0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, -1],
@@ -78017,8 +78017,8 @@
         [0, -1, 1, 0, -1, 1, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, -1, 1, 0, 0, 0, 0, 0, -1, 1, 0, -5, -1, 1, -1, 1],
+        [0, 0, 0, -1, 1, 0, -1, 1, 0, 0, 0, -1, 1, -1, 1, 0, -1],
+        [1, 0, -1, 1, 0, 0, 0, 0, 0, -1, 1, 0, -5, -1, 1, -1, 1],
         [-1, 6, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1],
         [0, -1, 1, -1, 1, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1],
         [-1, 2, -1, 1, 0, -1, 1, -1, 1]
@@ -78029,23 +78029,23 @@
         "Caius",
         "LMBC",
         "Magdalene",
-        "Emmanuel",
         "King's",
+        "Emmanuel",
         "Pembroke",
-        "Peterhouse",
         "Jesus",
+        "Peterhouse",
         "Downing",
         "Clare",
         "Queens'",
-        "LMBC 2",
         "St Catharine's",
-        "1st and 3rd",
+        "LMBC 2",
         "Selwyn",
+        "1st and 3rd",
         "Robinson",
-        "Hughes Hall"
+        "Caius 2"
       ],
       [
-        "Caius 2",
+        "Hughes Hall",
         "Trinity Hall",
         "Fitzwilliam",
         "Christ's",
@@ -78117,7 +78117,7 @@
       [true, true, true, true, true],
       [true, true, true, true, true],
       [true, true, true, true, true],
-      [false, true, true, true, true]
+      [true, true, true, true, true]
     ]
   },
   {
