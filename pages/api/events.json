@@ -77993,7 +77993,7 @@
         "Pembroke 4"
       ]
     ],
-    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rruururruuur urrurruuurur ruuro3ururrru ro3urrruruurrr\nruurur rurruruuuuu uruuuuurrru uuo3urrrrurur rururrrururrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr\nrururu rruururruuur urrurruuurur ruuro3ururrru ro3urrruruurrr\nruurur rurruruuuuu uruuuuurrru uuo3urrrrurur rururrrururrrr\nuuruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, -1],
@@ -78021,7 +78021,7 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [-1, 1, -1, 1, 0, -1, 1, -1, 1]
       ]
     ],
     "finish": [
@@ -78102,22 +78102,22 @@
         "St Catharine's 3"
       ],
       [
-        "Fitzwilliam 3",
         "LMBC 4",
-        "Christ's 3",
+        "Fitzwilliam 3",
         "Caius 4",
+        "Christ's 3",
         "Magdalene 4",
-        "Clare 4",
         "Clare Hall 2",
-        "King's 3",
-        "Pembroke 4"
+        "Clare 4",
+        "Pembroke 4",
+        "King's 3"
       ]
     ],
     "completed": [
       [true, true, true, true, true],
       [true, true, true, true, true],
       [true, true, true, true, true],
-      [false, false, false, false, false]
+      [false, false, false, false, true]
     ]
   },
   {
