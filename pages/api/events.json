@@ -118039,7 +118039,7 @@
     "gender": "Men",
     "result": "",
     "year": 2023,
-    "days": 3,
+    "days": 4,
     "divisions": [
       [
         "99 1",
@@ -118103,35 +118103,39 @@
         "St Radegund 2",
         "99 11",
         "City 13",
+        "Chesterton 4",
         "99 12",
         "City 14",
         "99 13",
         "Champs 6",
-        "City 15",
-        "99 14",
-        "99 15",
         "Camb Vets 1"
       ]
     ],
-    "results": "rrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -118197,17 +118201,16 @@
         "St Radegund 2",
         "99 11",
         "City 13",
+        "Chesterton 4",
         "99 12",
         "City 14",
         "99 13",
         "Champs 6",
-        "City 15",
-        "99 14",
-        "99 15",
         "Camb Vets 1"
       ]
     ],
     "completed": [
+      [false, false, false, false],
       [false, false, false, false],
       [false, false, false, false],
       [false, false, false, false]
@@ -118219,7 +118222,7 @@
     "gender": "Women",
     "result": "",
     "year": 2023,
-    "days": 3,
+    "days": 4,
     "divisions": [
       [
         "Cantabs 1",
@@ -118241,6 +118244,8 @@
         "Rob Roy 2"
       ],
       [
+        "Rob Roy 3",
+        "Camb Vets 1",
         "99 3",
         "Cantabs 5",
         "City 4",
@@ -118249,17 +118254,18 @@
         "X-Press 2",
         "City 6",
         "99 4",
+        "St Radegund",
         "99 5",
         "Cantabs 6",
         "Chesterton 2",
         "Cantabs 7",
         "X-Press 3",
-        "City 7",
-        "Cantabs 8",
-        "99 6",
-        "Champs 4"
+        "City 7"
       ],
       [
+        "Cantabs 8",
+        "99 6",
+        "Champs 4",
         "Cantabs 9",
         "Chesterton 3",
         "Cantabs 10",
@@ -118268,25 +118274,31 @@
         "City 9",
         "Isle of Ely 2",
         "Cantabs 12",
-        "Cantabs 13"
+        "Cantabs 13",
+        "St Radegund 2"
       ]
     ],
-    "results": "rrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -118310,6 +118322,8 @@
         "Rob Roy 2"
       ],
       [
+        "Rob Roy 3",
+        "Camb Vets 1",
         "99 3",
         "Cantabs 5",
         "City 4",
@@ -118318,17 +118332,18 @@
         "X-Press 2",
         "City 6",
         "99 4",
+        "St Radegund",
         "99 5",
         "Cantabs 6",
         "Chesterton 2",
         "Cantabs 7",
         "X-Press 3",
-        "City 7",
-        "Cantabs 8",
-        "99 6",
-        "Champs 4"
+        "City 7"
       ],
       [
+        "Cantabs 8",
+        "99 6",
+        "Champs 4",
         "Cantabs 9",
         "Chesterton 3",
         "Cantabs 10",
@@ -118337,10 +118352,12 @@
         "City 9",
         "Isle of Ely 2",
         "Cantabs 12",
-        "Cantabs 13"
+        "Cantabs 13",
+        "St Radegund 2"
       ]
     ],
     "completed": [
+      [false, false, false],
       [false, false, false],
       [false, false, false],
       [false, false, false]
