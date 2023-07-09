@@ -1,0 +1,140 @@
+{
+  "nhead": {
+    "eights": {
+      "men": [
+        { "year": 2023, "count": 34, "crew": "Oriel" },
+        { "year": 2017, "count": 17, "crew": "Christ Church" },
+        { "year": 2007, "count": 17, "crew": "Magdalen" },
+        { "year": 1986, "count": 15, "crew": "New College" },
+        { "year": 2018, "count": 8, "crew": "Keble" },
+        { "year": 1949, "count": 6, "crew": "Trinity" },
+        { "year": 1965, "count": 5, "crew": "S.E.H." },
+        { "year": 2008, "count": 4, "crew": "Balliol" },
+        { "year": 1991, "count": 4, "crew": "University" },
+        { "year": 1931, "count": 4, "crew": "Brasenose" },
+        { "year": 2013, "count": 3, "crew": "Pembroke" },
+        { "year": 1957, "count": 1, "crew": "Queen's" },
+        { "year": 1951, "count": 1, "crew": "Merton" }
+      ],
+      "women": [
+        { "year": 1993, "count": 8, "crew": "Somerville" },
+        { "year": 2018, "count": 6, "crew": "Pembroke" },
+        { "year": 2017, "count": 6, "crew": "Wadham" },
+        { "year": 1995, "count": 5, "crew": "Osler House" },
+        { "year": 2009, "count": 4, "crew": "S.E.H." },
+        { "year": 1999, "count": 4, "crew": "Osler-Green" },
+        { "year": 1984, "count": 4, "crew": "St Hugh's" },
+        { "year": 2011, "count": 2, "crew": "Balliol" },
+        { "year": 2005, "count": 2, "crew": "New College" },
+        { "year": 2023, "count": 1, "crew": "Christ Church" },
+        { "year": 2022, "count": 1, "crew": "University" },
+        { "year": 2019, "count": 1, "crew": "Wolfson" },
+        { "year": 2013, "count": 1, "crew": "St John's" },
+        { "year": 1977, "count": 1, "crew": "L.M.H." }
+      ]
+    },
+    "lents": {
+      "men": [
+        { "year": 2023, "count": 18, "crew": "LMBC" },
+        { "year": 1974, "count": 18, "crew": "Jesus" },
+        { "year": 2019, "count": 12, "crew": "Caius" },
+        { "year": 2014, "count": 10, "crew": "Downing" },
+        { "year": 2010, "count": 10, "crew": "1st and 3rd" },
+        { "year": 1993, "count": 5, "crew": "Trinity Hall" },
+        { "year": 1928, "count": 3, "crew": "1st Trinity" },
+        { "year": 2001, "count": 2, "crew": "Emmanuel" },
+        { "year": 1989, "count": 1, "crew": "Pembroke" },
+        { "year": 1973, "count": 1, "crew": "Clare" },
+        { "year": 1969, "count": 1, "crew": "Fitzwilliam" },
+        { "year": 1968, "count": 1, "crew": "Queens'" },
+        { "year": 1956, "count": 1, "crew": "Peterhouse" }
+      ],
+      "women": [
+        { "year": 2009, "count": 11, "crew": "Emmanuel" },
+        { "year": 2023, "count": 8, "crew": "Jesus" },
+        { "year": 2020, "count": 6, "crew": "Downing" },
+        { "year": 2022, "count": 5, "crew": "Newnham" },
+        { "year": 2014, "count": 4, "crew": "1st and 3rd" },
+        { "year": 1980, "count": 3, "crew": "New Hall" },
+        { "year": 1999, "count": 2, "crew": "Trinity Hall" },
+        { "year": 1993, "count": 2, "crew": "LMBC" },
+        { "year": 1981, "count": 2, "crew": "Girton" },
+        { "year": 2015, "count": 1, "crew": "Christ's" },
+        { "year": 2006, "count": 1, "crew": "Clare" },
+        { "year": 2003, "count": 1, "crew": "Caius" },
+        { "year": 1984, "count": 1, "crew": "Churchill" }
+      ]
+    },
+    "mays": {
+      "men": [
+        { "year": 2023, "count": 17, "crew": "Caius" },
+        { "year": 2018, "count": 5, "crew": "LMBC" },
+        { "year": 1995, "count": 4, "crew": "Trinity Hall" },
+        { "year": 2010, "count": 3, "crew": "1st and 3rd" },
+        { "year": 1997, "count": 2, "crew": "Downing" },
+        { "year": 2001, "count": 1, "crew": "Emmanuel" }
+      ],
+      "women": [
+        { "year": 2023, "count": 8, "crew": "Jesus" },
+        { "year": 2010, "count": 6, "crew": "Pembroke" },
+        { "year": 2016, "count": 5, "crew": "Downing" },
+        { "year": 1990, "count": 5, "crew": "Churchill" },
+        { "year": 2004, "count": 4, "crew": "Emmanuel" },
+        { "year": 2022, "count": 3, "crew": "Newnham" },
+        { "year": 2002, "count": 3, "crew": "Caius" },
+        { "year": 2013, "count": 2, "crew": "Clare" },
+        { "year": 1992, "count": 2, "crew": "LMBC" },
+        { "year": 1984, "count": 2, "crew": "New Hall" },
+        { "year": 1983, "count": 2, "crew": "Trinity Hall" }
+      ]
+    },
+    "torpids": {
+      "men": [
+        { "year": 2022, "count": 34, "crew": "Oriel" },
+        { "year": 2023, "count": 14, "crew": "Christ Church" },
+        { "year": 1953, "count": 13, "crew": "New College" },
+        { "year": 1971, "count": 12, "crew": "Balliol" },
+        { "year": 2008, "count": 9, "crew": "Magdalen" },
+        { "year": 2017, "count": 6, "crew": "Pembroke" },
+        { "year": 1966, "count": 6, "crew": "S.E.H." },
+        { "year": 1967, "count": 3, "crew": "St John's" },
+        { "year": 1926, "count": 3, "crew": "University" },
+        { "year": 1958, "count": 2, "crew": "Queen's" },
+        { "year": 1930, "count": 2, "crew": "Worcester" },
+        { "year": 1931, "count": 1, "crew": "Corpus Christi" },
+        { "year": 1927, "count": 1, "crew": "Merton" }
+      ],
+      "women": [
+        { "year": 2016, "count": 5, "crew": "Magdalen" },
+        { "year": 1994, "count": 5, "crew": "Somerville" },
+        { "year": 1984, "count": 5, "crew": "Jesus" },
+        { "year": 1999, "count": 4, "crew": "Osler-Green" },
+        { "year": 1995, "count": 4, "crew": "Osler House" },
+        { "year": 2019, "count": 3, "crew": "Wadham" },
+        { "year": 2018, "count": 3, "crew": "Oriel" },
+        { "year": 2009, "count": 3, "crew": "St Catherine's" },
+        { "year": 2004, "count": 2, "crew": "Merton" },
+        { "year": 2023, "count": 1, "crew": "University" },
+        { "year": 2022, "count": 1, "crew": "Wolfson" },
+        { "year": 2005, "count": 1, "crew": "New College" },
+        { "year": 1985, "count": 1, "crew": "St Hugh's" },
+        { "year": 1978, "count": 1, "crew": "L.M.H." }
+      ]
+    },
+    "town": {
+      "men": [
+        { "year": 2014, "count": 30, "crew": "Rob Roy 1" },
+        { "year": 2023, "count": 16, "crew": "99 1" },
+        { "year": 1982, "count": 16, "crew": "City 1" },
+        { "year": 2021, "count": 11, "crew": "Cantabs 1" }
+      ],
+      "women": [
+        { "year": 2016, "count": 13, "crew": "City 1" },
+        { "year": 2023, "count": 8, "crew": "Cantabs 1" },
+        { "year": 2007, "count": 7, "crew": "Rob Roy 1" },
+        { "year": 2006, "count": 5, "crew": "99 1" },
+        { "year": 1999, "count": 2, "crew": "Free Press 1" }
+      ]
+    }
+  }
+}
