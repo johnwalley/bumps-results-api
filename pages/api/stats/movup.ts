@@ -48,7 +48,7 @@ export default function handler(
 
     const { event = "mays", gender = "women" } = req.query;
 
-    res.status(200).json(stats[event][gender]["movup"]);
+    res.status(200).json(stats[event as any][gender as any]["movup"]);
   } catch (error) {
     let message = "There was an error";
 
