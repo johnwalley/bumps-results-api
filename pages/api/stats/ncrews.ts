@@ -50,7 +50,7 @@ export default function handler(
 
     res
       .status(200)
-      .json((stats as any)[event as any][gender as any]["ncrew" as any]);
+      .json((stats as any)[event as any][gender as any]["ncrews" as any]);
   } catch (error) {
     let message = "There was an error";
 
