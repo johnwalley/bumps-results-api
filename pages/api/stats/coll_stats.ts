@@ -52,11 +52,11 @@ export default function handler(
 
     const ncrews: { year: number }[] = e["ncrews" as any];
 
-    const latestYear = ncrews.map((d) => -d.year).sort()[0];
+    const latestYear = ncrews.map((d) => d.year).sort()[ncrews.length - 1];
 
     const highest = ncrews
       .filter((d) => d.year === latestYear)
-      .sort((d) => -d.year)[0];
+      .sort((d) => d.year)[0];
 
     const body = {
       ncrews: highest,
