@@ -48,9 +48,15 @@ export default function handler(
 
     const { event = "mays", gender = "women" } = req.query;
 
-    res
-      .status(200)
-      .json((stats as any)[event as any][gender as any]["movup" as any]);
+    const e = (stats as any)[event as any][gender as any];
+
+    const body = {
+      movdo: e["movdo" as any][0],
+      movup: e["movup" as any][0],
+      nhead: e["nhead" as any][0],
+    };
+
+    res.status(200).json(body);
   } catch (error) {
     let message = "There was an error";
 

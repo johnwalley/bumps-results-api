@@ -41,7 +41,7 @@ type Data = {
 
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<Data | { message: string }>
+  res: NextApiResponse<any | { message: string }>
 ) {
   try {
     Joi.assert(req.query, schema);
