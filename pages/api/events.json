@@ -118278,7 +118278,7 @@
         "St Radegund 2"
       ]
     ],
-    "results": "rrrurruurr uruurrrrururr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurruurr uruurrrrururr rrrrrrrrrrrrrrrrrr\nrrurruuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -118288,7 +118288,7 @@
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -118342,23 +118342,23 @@
       ],
       [
         "City 7",
-        "99 6",
         "Cantabs 9",
-        "Champs 4",
+        "99 6",
         "Cantabs 10",
-        "Chesterton 3",
+        "Champs 4",
         "Cantabs 11",
+        "Chesterton 3",
         "City 8",
         "Isle of Ely 2",
-        "City 9",
         "Cantabs 12",
+        "City 9",
         "Cantabs 13",
         "St Radegund 2"
       ]
     ],
     "completed": [
-      [false, true, true],
-      [false, false, false],
+      [true, true, true],
+      [false, false, true],
       [false, false, false],
       [false, false, false]
     ]
