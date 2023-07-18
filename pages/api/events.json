@@ -118278,12 +118278,12 @@
         "St Radegund 2"
       ]
     ],
-    "results": "rrrrrrruurr uruurrrrururr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurruurr uruurrrrururr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, -1, 1, 0, -1, 1, 0, 0, 0, 0, -1, 1, -1, 1, 0, -1],
-        [1, 0, -1, 1, -1, 1, 0, 0, 0, 0, 0, 0, 0]
+        [1, 0, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -118349,8 +118349,8 @@
         "Chesterton 3",
         "Cantabs 11",
         "City 8",
-        "City 9",
         "Isle of Ely 2",
+        "City 9",
         "Cantabs 12",
         "Cantabs 13",
         "St Radegund 2"
