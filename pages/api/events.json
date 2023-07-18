@@ -118111,7 +118111,7 @@
         "Camb Vets 1"
       ]
     ],
-    "results": "urrrruu rrrururuurrru uurrurrrurrru rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "urrrruu rrrururuurrru uurrurrrurrru rrrrrrrrrrrrrrrrrr\nrrrururr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -118123,7 +118123,7 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, 0, -1, 1, 0, -1, 1, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -118199,19 +118199,19 @@
       [
         "St Radegund 2",
         "Champs 5",
-        "City 13",
         "99 11",
+        "City 13",
         "Chesterton 4",
-        "99 12",
         "City 14",
+        "99 12",
         "99 13",
         "Camb Vets 1",
         "Champs 6"
       ]
     ],
     "completed": [
-      [false, true, true, true],
-      [false, false, false, false],
+      [true, true, true, true],
+      [false, false, false, true],
       [false, false, false, false],
       [false, false, false, false]
     ]
