@@ -118111,7 +118111,7 @@
         "Camb Vets 1"
       ]
     ],
-    "results": "urrrruu rrrururuurrru uurrurrrurrru uuurrrrurrrur\nrrrururr rrrrrururrurur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "urrrruu rrrururuurrru uurrurrrurrru uuurrrrurrrur\nrrrururr rrrrrururrurur rrrurruruurru rrrrrrrrrrrrrrrrrr\nrrrrurur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, -1, 1, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, 1, -1, 1, -1],
@@ -118121,7 +118121,7 @@
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [-1, 1, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, 0],
         [0, -1, 1, 0, -1, 1, 0, 0, -1, 1, 0, -1, 1, 0, 0, 0, 0],
         [0, 0, -1, 1, 0, -1, 1, 0, 0, 0]
       ],
@@ -118129,7 +118129,7 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, -1, 1, 0, -1, 1, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -118159,21 +118159,21 @@
         "99 4"
       ],
       [
-        "Champs 1",
         "City 5",
+        "Champs 1",
         "X-Press 2",
         "St Neots 1",
-        "City 6",
         "St Radegund 1",
-        "Chesterton 2",
+        "City 6",
         "Cantabs 6",
+        "Chesterton 2",
         "City 7",
-        "99 5",
         "Cantabs 7",
+        "99 5",
         "City 8",
         "X-Press 3",
-        "Cantabs 8",
         "City 9",
+        "Cantabs 8",
         "99 6",
         "Isle of Ely 1"
       ],
@@ -118198,11 +118198,11 @@
       ],
       [
         "St Radegund 2",
-        "Champs 5",
         "99 11",
+        "Champs 5",
         "City 13",
-        "Chesterton 4",
         "City 14",
+        "Chesterton 4",
         "99 12",
         "99 13",
         "Camb Vets 1",
@@ -118211,8 +118211,8 @@
     ],
     "completed": [
       [true, true, true, true],
-      [false, false, true, true],
-      [false, false, false, false],
+      [true, true, true, true],
+      [false, false, false, true],
       [false, false, false, false]
     ]
   },
@@ -118278,7 +118278,7 @@
         "St Radegund 2"
       ]
     ],
-    "results": "rrrurruurr uruurrrrururr ruurrrrurrrrrrr\nrrurruuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrurruurr uruurrrrururr ruurrrrurrrrrrr\nrrurruuur ruruuuuurur rruurrurrurrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, 1, -1, 1],
@@ -118286,8 +118286,8 @@
         [1, 0, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, -1, 1, 0, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0],
+        [0, -1, 1, 0, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1],
         [0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, 0, 0]
       ],
       [
@@ -118307,38 +118307,38 @@
         "City 1",
         "Cantabs 2",
         "99 1",
-        "Cantabs 3",
         "Cantabs 4",
+        "Cantabs 3",
         "St Neots 1",
         "City 2",
-        "X-Press 1",
         "99 2",
+        "X-Press 1",
         "Chesterton 1",
         "Rob Roy 1",
-        "Champs 1",
         "City 3",
-        "Isle of Ely 1",
+        "Champs 1",
         "Rob Roy 2",
+        "Isle of Ely 1",
         "Champs 2"
       ],
       [
         "Rob Roy 3",
-        "Camb Vets 1",
         "Cantabs 5",
+        "Camb Vets 1",
         "99 3",
-        "City 4",
         "City 5",
-        "Champs 3",
+        "City 4",
         "X-Press 2",
-        "City 6",
+        "Champs 3",
         "99 4",
-        "St Radegund 1",
+        "City 6",
         "Cantabs 6",
-        "99 5",
+        "St Radegund 1",
         "Cantabs 7",
+        "99 5",
         "Chesterton 2",
-        "X-Press 3",
-        "Cantabs 8"
+        "Cantabs 8",
+        "X-Press 3"
       ],
       [
         "City 7",
@@ -118358,7 +118358,7 @@
     ],
     "completed": [
       [true, true, true],
-      [false, false, true],
+      [true, true, true],
       [false, false, false],
       [false, false, false]
     ]
