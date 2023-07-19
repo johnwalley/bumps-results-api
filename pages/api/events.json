@@ -118111,10 +118111,10 @@
         "Camb Vets 1"
       ]
     ],
-    "results": "urrrruu rrrururuurrru uurrurrrurrru uuurrrrurrrur\nrrrururr rrrrrururrurur rrrurruruurru ruurrurrurrru\nrrrrurur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "urrrruu rrrururuurrru uurrurrrurrru uuurruurrrur\nrrrururr rrrrrururrurur rrrurruruurru ruurrurrurrru\nrrrrurur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
-        [0, -1, 1, 0, 0, 0, -1, 1, 0, 0, 0, 0, -1, 1, -1, 1, -1],
+        [0, -1, 1, 0, 0, 0, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1, -1],
         [-1, 2, 0, 0, 0, -1, 1, 0, 0, 0, -1, 1, 0, 0, -1, 1, -1],
         [-1, 2, 0, 0, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1, 0, 0],
         [-1, 1, -1, 1, 0, 0, 0, 0, -1, 1]
@@ -118148,9 +118148,9 @@
         "City 2",
         "99 2",
         "X-Press 1",
-        "Cantabs 3",
-        "99 3",
         "Chesterton 1",
+        "99 3",
+        "Cantabs 3",
         "Cantabs 4",
         "City 3",
         "City 4",
