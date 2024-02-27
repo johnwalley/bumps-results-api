@@ -60894,12 +60894,12 @@
         "Selwyn 2"
       ]
     ],
-    "results": "rrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "uurruuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -60958,22 +60958,22 @@
       ],
       [
         "St Edmund's",
-        "Queens' 2",
         "Magdalene 2",
-        "Trinity Hall 2",
+        "Queens' 2",
         "Fitzwilliam 2",
-        "Christ's 2",
+        "Trinity Hall 2",
         "Peterhouse 2",
+        "Christ's 2",
         "Clare Hall",
         "LMBC 3",
-        "St Catharine's 2",
         "Lucy Cavendish",
-        "Churchill 2",
-        "Selwyn 2"
+        "St Catharine's 2",
+        "Selwyn 2",
+        "Churchill 2"
       ]
     ],
     "completed": [
-      [false, false, false],
+      [false, false, true],
       [false, false, false],
       [false, false, false],
       [false, false, false]
@@ -61040,11 +61040,11 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rruuurru ruruuuurrrru rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [-1, 1, 0, 0, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1],
         [-1, 1, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0]
       ],
       [
@@ -61084,23 +61084,23 @@
         "St Catharine's"
       ],
       [
-        "Darwin",
         "King's",
+        "Darwin",
         "Homerton",
         "Selwyn",
         "Murray Edwards",
         "Magdalene",
-        "Girton",
         "Corpus Christi",
-        "Lucy Cavendish",
+        "Girton",
         "Newnham 2",
-        "Robinson",
+        "Lucy Cavendish",
         "Jesus 2",
-        "Hughes Hall",
+        "Robinson",
         "Emmanuel 2",
+        "Hughes Hall",
         "LMBC 2",
-        "Queens' 2",
-        "Wolfson"
+        "Wolfson",
+        "Queens' 2"
       ],
       [
         "Pembroke 2",
@@ -61118,7 +61118,7 @@
       ]
     ],
     "completed": [
-      [false, false, true],
+      [false, true, true],
       [false, false, false],
       [false, false, false],
       [false, false, false]
