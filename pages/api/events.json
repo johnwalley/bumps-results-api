@@ -60973,10 +60973,10 @@
       ]
     ],
     "completed": [
-      [false, false, false],
-      [false, false, false],
-      [false, false, false],
-      [false, false, false]
+      [true, true, true],
+      [true, true, true],
+      [true, true, true],
+      [true, true, true]
     ]
   },
   {
@@ -61040,12 +61040,12 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rrrruurru rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [-1, 1, 0, 0, -1, 1, -1, 1, 0, 0, 0, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -61103,14 +61103,14 @@
         "Wolfson"
       ],
       [
-        "Downing 2",
         "Pembroke 2",
+        "Downing 2",
         "Caius 2",
         "Clare 2",
-        "Emmanuel 3",
         "Christ's 2",
-        "St Edmund's",
+        "Emmanuel 3",
         "Trinity Hall 2",
+        "St Edmund's",
         "St Catharine's 2",
         "Clare Hall",
         "Addenbrooke's",
@@ -61118,7 +61118,7 @@
       ]
     ],
     "completed": [
-      [false, false, false],
+      [true, false, false],
       [false, false, false],
       [false, false, false],
       [false, false, false]
