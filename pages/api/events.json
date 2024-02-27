@@ -60894,12 +60894,12 @@
         "Selwyn 2"
       ]
     ],
-    "results": "uurruuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "uurruuur uuuurruuurr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1]
+        [0, 0, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, -1],
+        [1, -1, 1, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -60940,24 +60940,24 @@
       [
         "Christ's",
         "Fitzwilliam",
-        "Churchill",
         "Selwyn",
-        "Girton",
+        "Churchill",
         "Corpus Christi",
-        "Hughes Hall",
+        "Girton",
         "Wolfson",
+        "Hughes Hall",
         "Homerton",
         "Pembroke 2",
-        "Sidney Sussex",
         "Emmanuel 2",
-        "Darwin",
+        "Sidney Sussex",
         "Jesus 2",
-        "1st and 3rd 2",
+        "Darwin",
         "Downing 2",
-        "Clare 2"
+        "1st and 3rd 2",
+        "St Edmund's"
       ],
       [
-        "St Edmund's",
+        "Clare 2",
         "Magdalene 2",
         "Queens' 2",
         "Fitzwilliam 2",
@@ -60973,7 +60973,7 @@
       ]
     ],
     "completed": [
-      [false, false, true],
+      [false, true, true],
       [false, false, false],
       [false, false, false],
       [false, false, false]
