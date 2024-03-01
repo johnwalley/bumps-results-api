@@ -60894,7 +60894,7 @@
         "Selwyn 2"
       ]
     ],
-    "results": "uurruuur uuuurruuuu urururrrururr\nruurruuu uruuurruuur rruruurrrrurrr\nrruuurrur rruuruurruru rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "uurruuur uuuurruuuu urururrrururr\nruurruuu uruuurruuur rruruurrrrurrr\nrruuurrur rruuruurruru ruruuuurrurr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, 0, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, -1],
@@ -60907,7 +60907,7 @@
         [-1, 2, -1, 1, -1, 1, 0, 0, -1, 1, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1],
         [-1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0],
         [0, -1, 1, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0]
       ],
@@ -60921,21 +60921,21 @@
       [
         "LMBC",
         "Caius",
-        "Downing",
         "Magdalene",
+        "Downing",
         "Jesus",
         "Trinity Hall",
-        "Pembroke",
         "Clare",
-        "1st and 3rd",
+        "Pembroke",
         "Emmanuel",
-        "Queens'",
+        "1st and 3rd",
         "Robinson",
-        "King's",
+        "Queens'",
         "St Catharine's",
+        "King's",
         "Peterhouse",
-        "LMBC 2",
-        "Fitzwilliam"
+        "Fitzwilliam",
+        "LMBC 2"
       ],
       [
         "Selwyn",
@@ -60975,7 +60975,7 @@
     "completed": [
       [true, true, true],
       [true, true, true],
-      [false, true, true],
+      [true, true, true],
       [false, false, false]
     ]
   },
