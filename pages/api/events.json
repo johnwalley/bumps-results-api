@@ -61040,7 +61040,7 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -61055,7 +61055,7 @@
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [-1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1, 0]
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -61103,24 +61103,24 @@
         "Pembroke 2"
       ],
       [
-        "Queens' 2",
         "Caius 2",
-        "Downing 2",
+        "Queens' 2",
         "Christ's 2",
-        "Clare 2",
+        "Downing 2",
         "Trinity Hall 2",
-        "Emmanuel 3",
+        "Clare 2",
         "Clare Hall",
+        "Emmanuel 3",
         "St Edmund's",
-        "St Catharine's 2",
         "Addenbrooke's",
+        "St Catharine's 2",
         "Anglia Ruskin"
       ]
     ],
     "completed": [
       [true, true, true],
       [true, true, true],
-      [false, false, false],
+      [false, false, true],
       [false, false, false]
     ]
   },
