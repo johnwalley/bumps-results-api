@@ -61040,7 +61040,7 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -61059,7 +61059,7 @@
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1],
         [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1]
       ]
     ],
@@ -61085,22 +61085,22 @@
       ],
       [
         "Peterhouse",
-        "King's",
         "Selwyn",
+        "King's",
         "Darwin",
-        "Magdalene",
         "Corpus Christi",
+        "Magdalene",
         "Murray Edwards",
         "Lucy Cavendish",
-        "Girton",
         "Jesus 2",
-        "Newnham 2",
+        "Girton",
         "Emmanuel 2",
+        "Newnham 2",
         "Hughes Hall",
-        "Robinson",
         "Wolfson",
-        "LMBC 2",
-        "Caius 2"
+        "Robinson",
+        "Caius 2",
+        "LMBC 2"
       ],
       [
         "Pembroke 2",
@@ -61121,7 +61121,7 @@
       [true, true, true],
       [true, true, true],
       [true, true, true],
-      [false, false, true]
+      [false, true, true]
     ]
   },
   {
