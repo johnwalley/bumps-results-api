@@ -61040,7 +61040,7 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rururrruuurrr",
+    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rururrruuuur",
     "move": [
       [
         [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -61058,7 +61058,7 @@
         [-1, 2, -1, 1, -1, 1, -1, 1, 0, -1, 1, 0]
       ],
       [
-        [0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1],
+        [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1],
         [0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1],
         [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1]
       ]
@@ -61066,8 +61066,8 @@
     "finish": [
       [
         "Jesus",
-        "LMBC",
         "Caius",
+        "LMBC",
         "Downing",
         "Emmanuel",
         "Trinity Hall",
