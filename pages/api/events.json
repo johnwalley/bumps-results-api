@@ -60894,7 +60894,7 @@
         "Selwyn 2"
       ]
     ],
-    "results": "uurruuur uuuurruuuu urururrrururr\nruurruuu uruuurruuur rruruurrrrurrr\nrruuurrur rruuruurruru ruruuuurrurr\nrrruurruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "uurruuur uuuurruuuu urururrrururr\nruurruuu uruuurruuur rruruurrrrurrr\nrruuurrur rruuruurruru ruruuuurrurr\nrrruurruu rurruurrrurur rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, 0, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, -1],
@@ -60913,7 +60913,7 @@
       ],
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, 0, -1, 1, 0, 0, 0, -1, 1, -1, 1, 0, 0, -1, 1],
         [-1, 1, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0, 0]
       ]
     ],
@@ -60939,22 +60939,22 @@
       ],
       [
         "Selwyn",
-        "Caius 2",
         "Christ's",
+        "Caius 2",
         "Churchill",
-        "Corpus Christi",
         "Wolfson",
+        "Corpus Christi",
         "Girton",
         "Homerton",
         "Hughes Hall",
-        "Pembroke 2",
         "Emmanuel 2",
-        "Jesus 2",
+        "Pembroke 2",
         "Downing 2",
+        "Jesus 2",
         "Sidney Sussex",
         "1st and 3rd 2",
-        "Darwin",
-        "Magdalene 2"
+        "Magdalene 2",
+        "Darwin"
       ],
       [
         "Fitzwilliam 2",
@@ -60976,7 +60976,7 @@
       [true, true, true],
       [true, true, true],
       [true, true, true],
-      [false, false, true]
+      [false, true, true]
     ]
   },
   {
@@ -61040,7 +61040,7 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rrrrrrrrrrrrrrrrrr",
+    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rurrrrrrrrrrurrr",
     "move": [
       [
         [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -61058,7 +61058,7 @@
         [-1, 2, -1, 1, -1, 1, -1, 1, 0, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1],
         [0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1],
         [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1]
       ]
@@ -61068,8 +61068,8 @@
         "Jesus",
         "LMBC",
         "Caius",
-        "Emmanuel",
         "Downing",
+        "Emmanuel",
         "Newnham",
         "Trinity Hall",
         "1st and 3rd",
@@ -61080,8 +61080,8 @@
         "Queens'",
         "St Catharine's",
         "Christ's",
-        "Fitzwilliam",
-        "Homerton"
+        "Homerton",
+        "Fitzwilliam"
       ],
       [
         "Peterhouse",
@@ -61121,7 +61121,7 @@
       [true, true, true],
       [true, true, true],
       [true, true, true],
-      [false, true, true]
+      [true, true, true]
     ]
   },
   {
