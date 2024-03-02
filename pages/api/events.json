@@ -60894,7 +60894,7 @@
         "Selwyn 2"
       ]
     ],
-    "results": "uurruuur uuuurruuuu urururrrururr\nruurruuu uruuurruuur rruruurrrrurrr\nrruuurrur rruuruurruru ruruuuurrurr\nrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "uurruuur uuuurruuuu urururrrururr\nruurruuu uruuurruuur rruruurrrrurrr\nrruuurrur rruuruurruru ruruuuurrurr\nrrruurruu rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, 0, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1, 0, -1],
@@ -60914,7 +60914,7 @@
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [-1, 1, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -60957,16 +60957,16 @@
         "Magdalene 2"
       ],
       [
-        "St Edmund's",
         "Fitzwilliam 2",
-        "Clare 2",
+        "St Edmund's",
         "Queens' 2",
+        "Clare 2",
         "Peterhouse 2",
         "Christ's 2",
-        "Trinity Hall 2",
         "Lucy Cavendish",
-        "Clare Hall",
+        "Trinity Hall 2",
         "Selwyn 2",
+        "Clare Hall",
         "LMBC 3",
         "St Catharine's 2",
         "Churchill 2"
@@ -60976,7 +60976,7 @@
       [true, true, true],
       [true, true, true],
       [true, true, true],
-      [false, false, false]
+      [false, false, true]
     ]
   },
   {
@@ -61040,7 +61040,7 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
+    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -61060,7 +61060,7 @@
       [
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1]
       ]
     ],
     "finish": [
@@ -61104,24 +61104,24 @@
       ],
       [
         "Pembroke 2",
-        "Queens' 2",
         "Christ's 2",
-        "Downing 2",
+        "Queens' 2",
         "Trinity Hall 2",
-        "Clare 2",
+        "Downing 2",
         "Clare Hall",
-        "Emmanuel 3",
+        "Clare 2",
         "St Edmund's",
+        "Emmanuel 3",
         "Addenbrooke's",
-        "St Catharine's 2",
-        "Anglia Ruskin"
+        "Anglia Ruskin",
+        "St Catharine's 2"
       ]
     ],
     "completed": [
       [true, true, true],
       [true, true, true],
       [true, true, true],
-      [false, false, false]
+      [false, false, true]
     ]
   },
   {
