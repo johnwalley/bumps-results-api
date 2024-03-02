@@ -61040,7 +61040,7 @@
         "Anglia Ruskin"
       ]
     ],
-    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rurrrrrrrrrrurrr",
+    "results": "rruuurru ruruuuurrrru rururuuruurr\nrrruuuur uurururrurur rrururuuruur\nruruuuu urruruuuruu uo3ururuuurr\nuruuuur ruuruurrurur rururrruuurrr",
     "move": [
       [
         [0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -61058,7 +61058,7 @@
         [-1, 2, -1, 1, -1, 1, -1, 1, 0, -1, 1, 0]
       ],
       [
-        [0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 1],
+        [0, 0, 0, -1, 1, -1, 1, -1, 1, 0, 0, 0, -1, 1, 0, -1, 1],
         [0, -1, 1, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1],
         [0, -1, 1, -1, 1, -1, 1, -1, 1, 0, -1, 1]
       ]
@@ -61070,15 +61070,15 @@
         "Caius",
         "Downing",
         "Emmanuel",
-        "Newnham",
         "Trinity Hall",
-        "1st and 3rd",
+        "Newnham",
         "Clare",
+        "1st and 3rd",
         "Churchill",
         "Pembroke",
         "Sidney Sussex",
-        "Queens'",
         "St Catharine's",
+        "Queens'",
         "Christ's",
         "Homerton",
         "Fitzwilliam"
