@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import events from "./events.json";
+import { promises as fs } from "fs";
 import { transformData, joinEvents } from "bumps-results-tools";
 import Joi, { ValidationError } from "joi";
 
@@ -42,7 +42,7 @@ type Data = {
   startYear: number;
 }[];
 
-export default function handler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data | { message: string }>
 ) {
@@ -56,14 +56,12 @@ export default function handler(
       end = Number.POSITIVE_INFINITY,
     } = req.query;
 
-    const data = (events as any[])
-      .filter(
-        (d) => d.gender.toLowerCase() === (gender as string).toLowerCase()
-      )
-      .filter((d) => d.small.toLowerCase() === (event as string).toLowerCase())
-      .filter((d) => d.year >= +start)
-      .filter((d) => d.year <= end)
-      .map(transformData);
+    const file = await fs.readFile(
+      process.cwd() + `/pages/api/output/results/${event}/${gender}/results.json`,
+      "utf8"
+    );
+
+    const data = JSON.parse(file);
 
     const joinedEvents = joinEvents(data, event, gender);
 

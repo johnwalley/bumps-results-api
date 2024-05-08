@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import stats from "../stats.json";
+import { promises as fs } from "fs";
 import Joi, { ValidationError } from "joi";
 
 const GENDER = {
@@ -39,7 +39,7 @@ type Data = {
   startYear: number;
 }[];
 
-export default function handler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<any | { message: string }>
 ) {
@@ -48,13 +48,19 @@ export default function handler(
 
     const { event = "mays", gender = "women" } = req.query;
 
-    const e = (stats as any)[event as any][gender as any];
+    const file_ncrews = await fs.readFile(
+      process.cwd() +
+        `/pages/api/output/statistics/${event}/${gender}/ncrews.json`,
+      "utf8"
+    );
 
-    const ncrews: { year: number }[] = e["ncrews" as any];
+    const data_ncrews: { year: number }[] = JSON.parse(file_ncrews);
 
-    const latestYear = ncrews.map((d) => d.year).sort()[ncrews.length - 1];
+    const latestYear = data_ncrews.map((d) => d.year).sort()[
+      data_ncrews.length - 1
+    ];
 
-    const highest = ncrews
+    const highest = data_ncrews
       .filter((d) => d.year === latestYear)
       .sort((d) => d.year)[0];
 
