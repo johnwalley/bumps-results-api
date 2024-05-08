@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import events from "./events.json";
+import { promises as fs } from "fs";
 import { transformData, joinEvents } from "bumps-results-tools";
 import Joi, { ValidationError } from "joi";
 
@@ -40,7 +40,7 @@ type Data = {
   startYear: number;
 }[];
 
-export default function handler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data | { message: string }>
 ) {
@@ -49,11 +49,12 @@ export default function handler(
 
     const { event = "mays", gender = "women" } = req.query;
 
-    const data = (events as any[])
-      .filter(
-        (d) => d.gender.toLowerCase() === (gender as string).toLowerCase()
-      )
-      .filter((d) => d.small.toLowerCase() === (event as string).toLowerCase());
+    const file = await fs.readFile(
+      process.cwd() + `/pages/api/output/results/${event}/${gender}/results.json`,
+      "utf8"
+    );
+
+    const data = JSON.parse(file);
 
     const latestEvent = transformData(data[data.length - 1]);
     const joinedEvents = joinEvents([latestEvent], event, gender);
@@ -65,6 +66,8 @@ export default function handler(
     res.status(200).json(joinedEvents);
   } catch (error) {
     let message = "There was an error";
+
+    console.log(error)
 
     if (error instanceof ValidationError) {
       message = error.details.map((detail) => detail.message).join(", ");

@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import stats from "../stats.json";
+import { promises as fs } from "fs";
 import Joi, { ValidationError } from "joi";
 
 const GENDER = {
@@ -39,7 +39,7 @@ type Data = {
   startYear: number;
 }[];
 
-export default function handler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<any | { message: string }>
 ) {
@@ -48,12 +48,35 @@ export default function handler(
 
     const { event = "mays", gender = "women" } = req.query;
 
-    const e = (stats as any)[event as any][gender as any];
+    const file_movdo = await fs.readFile(
+      process.cwd() +
+        `/pages/api/output/statistics/${event}/${gender}/movdo.json`,
+      "utf8"
+    );
+
+    const data_movdo = JSON.parse(file_movdo);
+
+    const file_movup = await fs.readFile(
+      process.cwd() +
+        `/pages/api/output/statistics/${event}/${gender}/movup.json`,
+      "utf8"
+    );
+
+    const data_movup = JSON.parse(file_movup);
+
+    const file_nhead = await fs.readFile(
+      process.cwd() +
+        `/pages/api/output/statistics/${event}/${gender}/movup.json`,
+      "utf8"
+    );
+
+    const data_nhead = JSON.parse(file_nhead);
+
 
     const body = {
-      movdo: e["movdo" as any][0],
-      movup: e["movup" as any][0],
-      nhead: e["nhead" as any][0],
+      movdo: data_movdo,
+      movup: data_movup,
+      nhead: data_nhead,
     };
 
     res.status(200).json(body);

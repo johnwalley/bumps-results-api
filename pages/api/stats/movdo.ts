@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import stats from "../stats.json";
+import { promises as fs } from "fs";
 import Joi, { ValidationError } from "joi";
 
 const GENDER = {
@@ -39,7 +39,7 @@ type Data = {
   startYear: number;
 }[];
 
-export default function handler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<any | { message: string }>
 ) {
@@ -48,9 +48,15 @@ export default function handler(
 
     const { event = "mays", gender = "women" } = req.query;
 
-    res
-      .status(200)
-      .json((stats as any)[event as any][gender as any]["movdo" as any]);
+    const file = await fs.readFile(
+      process.cwd() +
+        `/pages/api/output/statistics/${event}/${gender}/movdo.json`,
+      "utf8"
+    );
+
+    const data = JSON.parse(file);
+
+    res.status(200).json(data);
   } catch (error) {
     let message = "There was an error";
 

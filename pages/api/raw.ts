@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import events from "./events.json";
+import { promises as fs } from "fs";
 import { write_ad, write_tg } from "bumps-results-tools";
 import Joi, { ValidationError } from "joi";
 
@@ -36,7 +36,7 @@ const schema = Joi.object({
 
 type Data = string;
 
-export default function handler(
+export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data | { message: string }>
 ) {
@@ -50,14 +50,17 @@ export default function handler(
       year = 2022,
     } = req.query;
 
-    const data = (events as any[])
-      .filter(
-        (d) => d.gender.toLowerCase() === (gender as string).toLowerCase()
-      )
-      .filter((d) => d.small.toLowerCase() === (event as string).toLowerCase())
-      .filter((d) => d.year === +year);
+    const file = await fs.readFile(
+      process.cwd() +
+        `/pages/api/output/results/${event}/${gender}/results.json`,
+      "utf8"
+    );
 
-    res.status(200).json(format === "tg" ? write_tg(data[0]) : write_ad(data[0]));
+    const data = JSON.parse(file).filter((d: any) => d.year === +year);
+
+    res
+      .status(200)
+      .json(format === "tg" ? write_tg(data[0]) : write_ad(data[0]));
   } catch (error) {
     let message = "There was an error";
 
