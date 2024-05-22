@@ -34930,7 +34930,7 @@
         "St Benet's Hall",
         "Exeter 2",
         "St John's 2",
-        "Pembroke 4",
+        "Pembroke 3",
         "Wolfson 3",
         "L.M.H. 2",
         "Keble 3",
@@ -35079,7 +35079,7 @@
         "St Peter's 2",
         "St John's 2",
         "St Catherine's 3",
-        "Pembroke 4",
+        "Pembroke 3",
         "New College 3",
         "Keble 3",
         "Wadham 3",
@@ -36361,6 +36361,494 @@
         "Queen's 3",
         "Lincoln 4",
         "Linacre 4"
+      ]
+    ],
+    "completed": [
+      [true, true, true, true, true, true, true],
+      [true, true, true, true, true, true, true],
+      [true, true, true, true, true, true, true],
+      [true, true, true, true, true, true, true]
+    ]
+  },
+  {
+    "set": "Summer Eights",
+    "small": "Eights",
+    "gender": "Men",
+    "result": "",
+    "year": 2024,
+    "days": 4,
+    "divisions": [
+      [
+        "Oriel",
+        "Christ Church",
+        "Keble",
+        "Wolfson",
+        "Pembroke",
+        "Balliol",
+        "S.E.H.",
+        "Magdalen",
+        "University",
+        "Wadham",
+        "L.M.H.",
+        "St Catherine's"
+      ],
+      [
+        "Jesus",
+        "New College",
+        "Hertford",
+        "Trinity",
+        "Lincoln",
+        "Merton",
+        "Queen's",
+        "St Hugh's",
+        "Exeter",
+        "Oriel 2",
+        "Worcester",
+        "Brasenose"
+      ],
+      [
+        "St John's",
+        "Mansfield",
+        "St Peter's",
+        "Christ Church 2",
+        "Pembroke 2",
+        "Corpus Christi",
+        "Linacre",
+        "Green Templeton",
+        "Somerville",
+        "University 2",
+        "New College 2",
+        "Keble 2"
+      ],
+      [
+        "St Antony's",
+        "St Anne's",
+        "Balliol 2",
+        "S.E.H. 2",
+        "Wolfson 2",
+        "St Hilda's",
+        "Wadham 2",
+        "St Catherine's 2",
+        "Magdalen 2",
+        "Regent's Park",
+        "Brasenose 2",
+        "Jesus 2"
+      ],
+      [
+        "Lincoln 2",
+        "Hertford 2",
+        "Merton 2",
+        "Queen's 2",
+        "St Peter's 2",
+        "Exeter 2",
+        "Reuben",
+        "Wolfson 3",
+        "New College 3",
+        "Keble 3",
+        "Oriel 3",
+        "Worcester 2"
+      ],
+      [
+        "Osler House",
+        "University 3",
+        "Oriel 4",
+        "St Hugh's 2",
+        "Balliol 3",
+        "Mansfield 2",
+        "Christ Church 3",
+        "Green Templeton 2",
+        "Wolfson 4",
+        "University 4",
+        "Somerville 2",
+        "New College 3"
+      ],
+      [
+        "St Hilda's 2",
+        "St Hugh's 3",
+        "Exeter 3",
+        "Trinity 2",
+        "S.E.H. 3",
+        "St John's 2",
+        "Pembroke 3",
+        "Green Templeton 3",
+        "St Peter's 3",
+        "Worcester 3",
+        "Hertford 3",
+        "Trinity 3",
+        "New College 5"
+      ]
+    ],
+    "results": "rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
+    "move": [
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      ]
+    ],
+    "finish": [
+      [
+        "Oriel",
+        "Christ Church",
+        "Keble",
+        "Wolfson",
+        "Pembroke",
+        "Balliol",
+        "S.E.H.",
+        "Magdalen",
+        "University",
+        "Wadham",
+        "L.M.H.",
+        "St Catherine's"
+      ],
+      [
+        "Jesus",
+        "New College",
+        "Hertford",
+        "Trinity",
+        "Lincoln",
+        "Merton",
+        "Queen's",
+        "St Hugh's",
+        "Exeter",
+        "Oriel 2",
+        "Worcester",
+        "Brasenose"
+      ],
+      [
+        "St John's",
+        "Mansfield",
+        "St Peter's",
+        "Christ Church 2",
+        "Pembroke 2",
+        "Corpus Christi",
+        "Linacre",
+        "Green Templeton",
+        "Somerville",
+        "University 2",
+        "New College 2",
+        "Keble 2"
+      ],
+      [
+        "St Antony's",
+        "St Anne's",
+        "Balliol 2",
+        "S.E.H. 2",
+        "Wolfson 2",
+        "St Hilda's",
+        "Wadham 2",
+        "St Catherine's 2",
+        "Magdalen 2",
+        "Regent's Park",
+        "Brasenose 2",
+        "Jesus 2"
+      ],
+      [
+        "Lincoln 2",
+        "Hertford 2",
+        "Merton 2",
+        "Queen's 2",
+        "St Peter's 2",
+        "Exeter 2",
+        "Reuben",
+        "Wolfson 3",
+        "New College 3",
+        "Keble 3",
+        "Oriel 3",
+        "Worcester 2"
+      ],
+      [
+        "Osler House",
+        "University 3",
+        "Oriel 4",
+        "St Hugh's 2",
+        "Balliol 3",
+        "Mansfield 2",
+        "Christ Church 3",
+        "Green Templeton 2",
+        "Wolfson 4",
+        "University 4",
+        "Somerville 2",
+        "New College 3"
+      ],
+      [
+        "St Hilda's 2",
+        "St Hugh's 3",
+        "Exeter 3",
+        "Trinity 2",
+        "S.E.H. 3",
+        "St John's 2",
+        "Pembroke 3",
+        "Green Templeton 3",
+        "St Peter's 3",
+        "Worcester 3",
+        "Hertford 3",
+        "Trinity 3",
+        "New College 5"
+      ]
+    ],
+    "completed": [
+      [true, true, true, true, true, true, true],
+      [true, true, true, true, true, true, true],
+      [true, true, true, true, true, true, true],
+      [true, true, true, true, true, true, true]
+    ]
+  },
+  {
+    "set": "Summer Eights",
+    "small": "Eights",
+    "gender": "Women",
+    "result": "",
+    "year": 2024,
+    "days": 4,
+    "divisions": [
+      [
+        "Christ Church",
+        "S.E.H.",
+        "University",
+        "Oriel",
+        "Wadham",
+        "Pembroke",
+        "Wolfson",
+        "Keble",
+        "Magdalen",
+        "Jesus",
+        "Balliol",
+        "St Anne's"
+      ],
+      [
+        "St John's",
+        "New College",
+        "Green Templeton",
+        "Hertford",
+        "Lincoln",
+        "Trinity",
+        "St Catherine's",
+        "Exeter",
+        "Linacre",
+        "Mansfield",
+        "L.M.H.",
+        "Somerville"
+      ],
+      [
+        "St Peter's",
+        "Brasenose",
+        "Wolfson 2",
+        "Merton",
+        "Corpus Christi",
+        "Worcester",
+        "Queen's",
+        "St Hugh's",
+        "St Antony's",
+        "Christ Church 2",
+        "University 2",
+        "St Hilda's"
+      ],
+      [
+        "Magdalen 2",
+        "Lincoln 2",
+        "Linacre 2",
+        "Green Templeton 2",
+        "Pembroke 2",
+        "Oriel 2",
+        "Wadham 2",
+        "St John's 2",
+        "Brasenose 2",
+        "Worcester 2",
+        "Wolfson 3",
+        "St Hugh's 2"
+      ],
+      [
+        "Hertford 2",
+        "New College 2",
+        "Jesus 2",
+        "Keble 2",
+        "Balliol 2",
+        "Somerville 2",
+        "S.E.H. 2",
+        "Mansfield 2",
+        "St Antony's 2",
+        "St Peter's 2",
+        "Reuben",
+        "Exeter 2"
+      ],
+      [
+        "Queen's 2",
+        "Oriel 3",
+        "Merton 2",
+        "Shi 2",
+        "St Peter's 3",
+        "S.E.H. 3",
+        "L.M.H. 2"
+      ],
+      [
+        "Pembroke 3",
+        "Oriel 4",
+        "Worcester 3",
+        "Exeter 3",
+        "St Anne's 2",
+        "New College 3",
+        "Brasenose 3"
+      ]
+    ],
+    "results": "rrrrrrr rrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrr rrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrr rrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr\nrrrrrrr rrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
+    "move": [
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0]
+      ],
+      [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0]
+      ]
+    ],
+    "finish": [
+      [
+        "Christ Church",
+        "S.E.H.",
+        "University",
+        "Oriel",
+        "Wadham",
+        "Pembroke",
+        "Wolfson",
+        "Keble",
+        "Magdalen",
+        "Jesus",
+        "Balliol",
+        "St Anne's"
+      ],
+      [
+        "St John's",
+        "New College",
+        "Green Templeton",
+        "Hertford",
+        "Lincoln",
+        "Trinity",
+        "St Catherine's",
+        "Exeter",
+        "Linacre",
+        "Mansfield",
+        "L.M.H.",
+        "Somerville"
+      ],
+      [
+        "St Peter's",
+        "Brasenose",
+        "Wolfson 2",
+        "Merton",
+        "Corpus Christi",
+        "Worcester",
+        "Queen's",
+        "St Hugh's",
+        "St Antony's",
+        "Christ Church 2",
+        "University 2",
+        "St Hilda's"
+      ],
+      [
+        "Magdalen 2",
+        "Lincoln 2",
+        "Linacre 2",
+        "Green Templeton 2",
+        "Pembroke 2",
+        "Oriel 2",
+        "Wadham 2",
+        "St John's 2",
+        "Brasenose 2",
+        "Worcester 2",
+        "Wolfson 3",
+        "St Hugh's 2"
+      ],
+      [
+        "Hertford 2",
+        "New College 2",
+        "Jesus 2",
+        "Keble 2",
+        "Balliol 2",
+        "Somerville 2",
+        "S.E.H. 2",
+        "Mansfield 2",
+        "St Antony's 2",
+        "St Peter's 2",
+        "Reuben",
+        "Exeter 2"
+      ],
+      [
+        "Queen's 2",
+        "Oriel 3",
+        "Merton 2",
+        "Shi 2",
+        "St Peter's 3",
+        "S.E.H. 3",
+        "L.M.H. 2"
+      ],
+      [
+        "Pembroke 3",
+        "Oriel 4",
+        "Worcester 3",
+        "Exeter 3",
+        "St Anne's 2",
+        "New College 3",
+        "Brasenose 3"
       ]
     ],
     "completed": [
@@ -55253,7 +55741,7 @@
         "CCAT 2",
         "1st and 3rd 5",
         "Churchill 3",
-        "Girton 2",
+        "Girton 3",
         "Homerton 2",
         "Christ's 4"
       ]
@@ -55361,7 +55849,7 @@
         "Homerton 2",
         "Pembroke 3",
         "Christ's 4",
-        "Girton 2"
+        "Girton 3"
       ]
     ],
     "completed": [
@@ -55429,7 +55917,7 @@
         "1st and 3rd 2",
         "Downing 2",
         "Trinity Hall 2",
-        "Anglia Ruskin 2",
+        "CCAT 2",
         "Selwyn 2",
         "Pembroke 3",
         "Emmanuel 3",
@@ -55515,7 +56003,7 @@
         "Clare Hall",
         "Christ's 2",
         "Downing 2",
-        "Anglia Ruskin 2",
+        "CCAT 2",
         "Emmanuel 3",
         "Pembroke 4",
         "1st and 3rd 3"
@@ -56662,7 +57150,7 @@
         "Addenbrooke's"
       ],
       [
-        "Caius 4",
+        "Caius 3",
         "1st and 3rd 4",
         "Hughes Hall",
         "Wolfson 2",
@@ -56763,7 +57251,7 @@
         "Hughes Hall",
         "Robinson 2",
         "St Catharine's 2",
-        "Caius 4",
+        "Caius 3",
         "Girton 2",
         "LMBC 3"
       ],
@@ -57013,7 +57501,7 @@
         "Hughes Hall",
         "Robinson 2",
         "St Catharine's 2",
-        "Caius 4",
+        "Caius 3",
         "Girton 2",
         "LMBC 3"
       ],
@@ -57120,7 +57608,7 @@
         "King's 2",
         "LMBC 3",
         "Jesus 3",
-        "Caius 4",
+        "Caius 3",
         "Robinson 2"
       ],
       [
@@ -57206,7 +57694,7 @@
         "Peterhouse 2",
         "Trinity Hall 2",
         "Sidney Sussex 2",
-        "Clare Hall 2",
+        "Clare Hall",
         "Girton 2",
         "Hughes Hall 2",
         "Murray Edwards 2",
@@ -57292,7 +57780,7 @@
         "Girton 2",
         "Murray Edwards 2",
         "Hughes Hall 2",
-        "Clare Hall 2",
+        "Clare Hall",
         "St Catharine's 2",
         "Anglia Ruskin 2",
         "Christ's 3",
@@ -57369,7 +57857,7 @@
         "King's 2",
         "LMBC 3",
         "Jesus 3",
-        "Caius 4",
+        "Caius 3",
         "Robinson 2",
         "Clare Hall"
       ],
@@ -57472,7 +57960,7 @@
         "Magdalene 2",
         "Jesus 3",
         "1st and 3rd 3",
-        "Caius 4",
+        "Caius 3",
         "King's 2",
         "Queens' 3",
         "Girton 2",
@@ -57569,7 +58057,7 @@
         "Homerton 2",
         "Murray Edwards 3",
         "King's 2",
-        "Downing 2",
+        "Darwin 2",
         "Queens' 2",
         "Queens' 3"
       ]
@@ -57652,7 +58140,7 @@
         "King's 2",
         "Queens' 2",
         "St Catharine's 2",
-        "Downing 2",
+        "Darwin 2",
         "Murray Edwards 3",
         "Queens' 3"
       ]
@@ -57721,7 +58209,7 @@
         "Churchill 2",
         "Magdalene 2",
         "1st and 3rd 3",
-        "Caius 4",
+        "Caius 3",
         "Queens' 3",
         "Clare Hall",
         "Robinson 2",
@@ -57733,7 +58221,7 @@
         "Churchill 3",
         "Magdalene 3",
         "LMBC 4",
-        "Pembroke 4",
+        "Pembroke 3",
         "St Edmund's 2",
         "Wolfson 2"
       ]
@@ -57820,12 +58308,12 @@
         "LMBC 3",
         "Darwin 2",
         "Churchill 3",
-        "Caius 4",
+        "Caius 3",
         "Magdalene 3"
       ],
       [
         "Queens' 3",
-        "Pembroke 4",
+        "Pembroke 3",
         "Corpus Christi 2",
         "Wolfson 2",
         "St Edmund's 2",
@@ -59995,7 +60483,7 @@
         "Clare Hall",
         "Homerton 2",
         "Clare 3",
-        "Queen's 3",
+        "Queens' 3",
         "Anglia Ruskin"
       ],
       [
@@ -60003,7 +60491,7 @@
         "Sidney Sussex 2",
         "Downing 3",
         "Corpus Christi 2",
-        "Trinity Hall",
+        "Trinity Hall 3",
         "Fitzwilliam 2"
       ]
     ],
@@ -60093,11 +60581,11 @@
         "Clare 3"
       ],
       [
-        "Queen's 3",
+        "Queens' 3",
         "Downing 3",
         "Anglia Ruskin",
         "Fitzwilliam 2",
-        "Trinity Hall",
+        "Trinity Hall 3",
         "Corpus Christi 2"
       ]
     ],
@@ -73773,7 +74261,7 @@
         "Fitzwilliam 2"
       ],
       [
-        "Peterhouse 3",
+        "Peterhouse 2",
         "St Catharine's 3",
         "Jesus 4",
         "LMBC 4",
@@ -73899,7 +74387,7 @@
         "Sidney Sussex 3",
         "St Catharine's 3",
         "Girton 3",
-        "Peterhouse 3",
+        "Peterhouse 2",
         "1st and 3rd 4",
         "Jesus 5"
       ]
@@ -75958,12 +76446,12 @@
         "Sidney Sussex 3",
         "King's 3",
         "Pembroke 4",
-        "LMBC 6",
+        "LMBC 5",
         "Hughes Hall 2",
         "Fitzwilliam 3"
       ],
       [
-        "LMBC 5",
+        "LMBC 6",
         "Pembroke 5",
         "Queens' 4",
         "Christ's 5",
@@ -76115,9 +76603,9 @@
         "King's 3"
       ],
       [
-        "LMBC 6",
-        "Girton 3",
         "LMBC 5",
+        "Girton 3",
+        "LMBC 6",
         "Queens' 4",
         "Christ's 5",
         "Pembroke 6",
@@ -78315,7 +78803,7 @@
         "Pembroke 3",
         "Darwin 3",
         "Churchill 3",
-        "Clare 5",
+        "Clare 4",
         "Emmanuel 4",
         "St Catharine's 4",
         "Homerton 3",
@@ -78458,7 +78946,7 @@
         "Corpus Christi 3",
         "Pembroke 4",
         "Darwin 3",
-        "Clare 5",
+        "Clare 4",
         "Clare Hall 2",
         "St Catharine's 4",
         "Caius 4",
@@ -78762,7 +79250,7 @@
         "Pembroke 4",
         "Darwin 3",
         "Clare 4",
-        "Caius 5",
+        "Caius 4",
         "LMBC 4",
         "LMBC 5",
         "Robinson 3",
@@ -78887,7 +79375,7 @@
         "Christ's 3",
         "Jesus 4",
         "Pembroke 4",
-        "Caius 5",
+        "Caius 4",
         "Trinity Hall 3",
         "LMBC 5",
         "Homerton 3",
@@ -79198,7 +79686,7 @@
         "Christ's 3",
         "Jesus 4",
         "Pembroke 4",
-        "Caius 5",
+        "Caius 4",
         "Trinity Hall 3",
         "LMBC 4",
         "Clare 4",
@@ -79318,7 +79806,7 @@
         "1st and 3rd 4",
         "Homerton 2",
         "Magdalene 3",
-        "Caius 5"
+        "Caius 4"
       ],
       [
         "Churchill 3",
@@ -79646,7 +80134,7 @@
         "Queens' 5",
         "Trinity Hall 4",
         "Jesus 5",
-        "Fitzwilliam 5",
+        "Fitzwilliam 3",
         "Trinity Hall 5",
         "Magdalene 4"
       ]
@@ -79771,7 +80259,7 @@
         "Corpus Christi 3",
         "Jesus 5",
         "Pembroke 4",
-        "Fitzwilliam 5",
+        "Fitzwilliam 3",
         "LMBC 5",
         "Queens' 5",
         "LMBC 4",
