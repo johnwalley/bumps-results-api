@@ -36478,7 +36478,7 @@
         "New College 5"
       ]
     ],
-    "results": "o3ururuur rrrurururr o3urruuru uuuuuru uruurrrrrr rrruuuuu uururrrrrr\nrrurro5uur uurururrr uurrruo3u ruururo3u uurrurrrrr uuuuuru rruuuurrr\nruurro3uu ruruo3uru ruurururr uuuruurr rurruurrrr ruurrurur rurrururrr\nurruruurr urruurrur uuuro3uu ruuruurrr rruurrurrr uuurrruu rrrrrrrrrrrrr",
+    "results": "o3ururuur rrrurururr o3urruuru uuuuuru uruurrrrrr rrruuuuu uururrrrrr\nrrurro5uur uurururrr uurrruo3u ruururo3u uurrurrrrr uuuuuru rruuuurrr\nruurro3uu ruruo3uru ruurururr uuuruurr rurruurrrr ruurrurur rurrururrr\nurruruurr urruurrur uuuro3uu ruuruurrr rruurrurrr uuurrruu uurrurrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, -1, 1, 0, -1, 1, -1],
@@ -36508,8 +36508,8 @@
         [-1, 1, -3, -1, 1, 3, 0, 0, -1, 1, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [-1, 1, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1],
+        [0, 0, 0, 0, 0, -1, 1, 0, 0, -1, 1, -1],
+        [-1, 2, -1, 1, 0, 0, 0, -1, 1, -1, 1, -1],
         [1, 0, 0, -1, 1, 0, 0, -1, 1, -1, 1, 0],
         [0, 0, 0, -1, 1, -1, 1, 0, -1, 1, -1, 1],
         [-1, 1, -3, -1, 1, 3, 0, -1, 1, -1, 1, -1],
@@ -36524,16 +36524,16 @@
         "Keble",
         "Wolfson",
         "Pembroke",
-        "Magdalen",
         "University",
+        "Magdalen",
         "Balliol",
         "S.E.H.",
-        "Wadham",
         "New College",
-        "L.M.H."
+        "Wadham",
+        "Trinity"
       ],
       [
-        "Trinity",
+        "L.M.H.",
         "Jesus",
         "Merton",
         "St Catherine's",
@@ -36622,7 +36622,7 @@
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
-      [false, true, true, true, true, true, true]
+      [true, true, true, true, true, true, true]
     ]
   },
   {
@@ -36722,7 +36722,7 @@
         "Brasenose 3"
       ]
     ],
-    "results": "uuru rrurur rro3uururr rrrurrruur rruuruurr rrrro3uuru uurrrruur\nrrrurr rruuu uuruurur urruruurr ruuruuur rrrurrurru ururrurrrr\nrurru ruurrr ruruuruu ururuuur rruruuuu uuuururr ruruururr\nrrrrur rrurrrr uuurruur rururuuu ure2e-1e-1uurrr ruurrrrrur rrrrrrrrrrrrr",
+    "results": "uuru rrurur rro3uururr rrrurrruur rruuruurr rrrro3uuru uurrrruur\nrrrurr rruuu uuruurur urruruurr ruuruuur rrrurrurru ururrurrrr\nrurru ruurrr ruruuruu ururuuur rruruuuu uuuururr ruruururr\nrrrrur rrurrrr uuurruur rururuuu ure2e-1e-1uurrr ruurrrrrur rrururuur",
     "move": [
       [
         [0, -1, 1, -1, 1, 0, 0, 0, 0, -1, 1, -1],
@@ -36752,7 +36752,7 @@
         [-1, 1, 0, 0, -1, 1, 0]
       ],
       [
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1, 0],
         [0, -1, 1, 0, 0, 0, 0, 0, -1, 1, -1, 1],
         [0, 0, 0, -1, 1, -1, 1, -1, -1, 2, 0, -1],
         [-1, 2, -1, 1, -1, 1, 0, -1, 1, 0, -1, 1],
@@ -36764,16 +36764,16 @@
     "finish": [
       [
         "Christ Church",
-        "University",
         "Wadham",
-        "S.E.H.",
+        "University",
         "Pembroke",
+        "S.E.H.",
         "Wolfson",
-        "Oriel",
         "Balliol",
+        "Oriel",
         "Keble",
-        "Magdalen",
         "St John's",
+        "Magdalen",
         "Jesus"
       ],
       [
@@ -36855,7 +36855,7 @@
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
-      [false, true, true, true, true, true, true]
+      [true, true, true, true, true, true, true]
     ]
   },
   {
