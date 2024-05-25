@@ -36478,7 +36478,7 @@
         "New College 5"
       ]
     ],
-    "results": "o3ururuur rrrurururr o3urruuru uuuuuru uruurrrrrr rrruuuuu uururrrrrr\nrrurro5uur uurururrr uurrruo3u ruururo3u uurrurrrrr uuuuuru rruuuurrr\nruurro3uu ruruo3uru ruurururr uuuruurr rurruurrrr ruurrurur rurrururrr\nrrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
+    "results": "o3ururuur rrrurururr o3urruuru uuuuuru uruurrrrrr rrruuuuu uururrrrrr\nrrurro5uur uurururrr uurrruo3u ruururo3u uurrurrrrr uuuuuru rruuuurrr\nruurro3uu ruruo3uru ruurururr uuuruurr rurruurrrr ruurrurur rurrururrr\nurruruurr urruurrur rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
     "move": [
       [
         [0, 0, 0, 0, 0, 0, -1, 1, 0, -1, 1, -1],
@@ -36513,8 +36513,8 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        [0, -1, 1, 0, 0, -1, 1, -1, 1, 0, 0, -1],
+        [1, 0, -1, 1, -1, 1, 0, -1, 1, 0, 0, -1, 1]
       ]
     ],
     "finish": [
@@ -36590,39 +36590,39 @@
       ],
       [
         "University 3",
-        "Oriel 3",
         "St Hugh's 2",
+        "Oriel 3",
         "Green Templeton 2",
         "Christ Church 3",
-        "Oriel 4",
         "Balliol 3",
-        "University 4",
+        "Oriel 4",
         "Mansfield 2",
+        "University 4",
         "Somerville 2",
         "St Hilda's 2",
-        "Wolfson 4"
+        "Green Templeton 3"
       ],
       [
-        "Green Templeton 3",
+        "Wolfson 4",
         "New College 4",
-        "Trinity 2",
         "St John's 2",
-        "St Hugh's 3",
+        "Trinity 2",
         "S.E.H. 3",
+        "St Hugh's 3",
         "Exeter 3",
-        "Pembroke 3",
         "Trinity 3",
+        "Pembroke 3",
         "St Peter's 3",
         "Hertford 3",
-        "New College 5",
-        "Worcester 3"
+        "Worcester 3",
+        "New College 5"
       ]
     ],
     "completed": [
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
-      [false, false, false, false, false, false, false]
+      [false, false, false, false, false, true, true]
     ]
   },
   {
@@ -36722,7 +36722,7 @@
         "Brasenose 3"
       ]
     ],
-    "results": "uuru rrurur rro3uururr rrrurrruur rruuruurr rrrro3uuru uurrrruur\nrrrurr rruuu uuruurur urruruurr ruuruuur rrrurrurru ururrurrrr\nrurru ruurrr ruruuruu ururuuur rruruuuu uuuururr ruruururr\nrrrrrrr rrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
+    "results": "uuru rrurur rro3uururr rrrurrruur rruuruurr rrrro3uuru uurrrruur\nrrrurr rruuu uuruurur urruruurr ruuruuur rrrurrurru ururrurrrr\nrurru ruurrr ruruuruu ururuuur rruruuuu uuuururr ruruururr\nrrrrur rrurrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr",
     "move": [
       [
         [0, -1, 1, -1, 1, 0, 0, 0, 0, -1, 1, -1],
@@ -36757,8 +36757,8 @@
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0]
+        [0, 0, 0, 0, -1, 1, 0],
+        [0, -1, 1, 0, 0, 0, 0]
       ]
     ],
     "finish": [
@@ -36837,14 +36837,14 @@
         "Queen's 2",
         "St Hilda's 2",
         "St Peter's 3",
-        "Oriel 3",
         "L.M.H. 2",
+        "Oriel 3",
         "S.E.H. 3"
       ],
       [
         "Pembroke 3",
-        "Oriel 4",
         "St Anne's 2",
+        "Oriel 4",
         "Worcester 3",
         "Brasenose 3",
         "Exeter 3",
@@ -36855,7 +36855,7 @@
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
       [true, true, true, true, true, true, true],
-      [false, false, false, false, false, false, false]
+      [false, false, false, false, false, true, true]
     ]
   },
   {
